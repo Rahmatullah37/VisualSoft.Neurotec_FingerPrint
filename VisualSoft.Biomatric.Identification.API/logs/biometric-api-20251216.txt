@@ -1,0 +1,105 @@
+2025-12-16 10:48:44.553 +05:00 [INF] === Starting Biometric Identification API ===
+2025-12-16 10:48:44.852 +05:00 [INF] Registering BiometricService as Singleton...
+2025-12-16 10:48:45.699 +05:00 [INF] Swagger UI enabled at root URL
+2025-12-16 10:48:46.325 +05:00 [INF] API is ready to accept requests
+2025-12-16 10:48:46.330 +05:00 [INF] Swagger UI: https://localhost:7145
+2025-12-16 10:49:06.822 +05:00 [INF] HTTP GET /swagger/logo.png responded 404 in 10.6415 ms
+2025-12-16 10:49:55.601 +05:00 [INF] Initializing BiometricClusterConnector...
+2025-12-16 10:49:55.745 +05:00 [INF] === Initializing Biometric Cluster Connector ===
+2025-12-16 10:49:55.776 +05:00 [INF] Cluster Server: 192.168.18.142:25452/24932
+2025-12-16 10:49:55.778 +05:00 [INF] License Server: 192.168.18.142:5000
+2025-12-16 10:49:55.781 +05:00 [INF] Obtaining Neurotec licenses...
+2025-12-16 10:49:57.060 +05:00 [INF] All licenses obtained successfully
+2025-12-16 10:49:57.496 +05:00 [INF] Initializing connection to cluster...
+2025-12-16 10:49:57.612 +05:00 [INF] ✓ Successfully connected to Biometric Cluster
+2025-12-16 10:49:57.615 +05:00 [INF] === Biometric Service Ready ===
+2025-12-16 10:49:57.617 +05:00 [INF] BiometricClusterConnector initialized successfully
+2025-12-16 10:49:57.739 +05:00 [INF] Starting identification for file: C:\Users\VisualSoft\AppData\Local\Temp\f08010de-6ad2-4310-9d30-9d90f717c7f9.wsq
+2025-12-16 10:51:00.084 +05:00 [INF] ✓ Match found - Best: 44_5 (Score: 1391), Total Matches: 1, Duration: 62343.8846ms
+2025-12-16 10:51:00.203 +05:00 [INF] HTTP POST /api/Identification/identify responded 200 in 64682.0118 ms
+2025-12-16 10:52:48.004 +05:00 [INF] Starting identification for file: C:\Users\VisualSoft\AppData\Local\Temp\55f2d88c-3bcc-4159-80d0-b37b2fc3743f.wsq
+2025-12-16 10:52:49.353 +05:00 [WRN] Template extraction failed with status: "BadObject"
+2025-12-16 10:52:49.370 +05:00 [INF] HTTP POST /api/Identification/identify responded 200 in 1492.0641 ms
+2025-12-16 10:54:03.235 +05:00 [INF] Starting identification for file: C:\Users\VisualSoft\AppData\Local\Temp\58c1d0cd-e864-4abf-8f71-83b333abf948.wsq
+2025-12-16 10:55:22.264 +05:00 [INF] ✓ Match found - Best: 80_63_7105 (Score: 1799), Total Matches: 1, Duration: 79029.298ms
+2025-12-16 10:55:22.271 +05:00 [INF] HTTP POST /api/Identification/identify responded 200 in 79170.1966 ms
+2025-12-16 10:55:41.923 +05:00 [INF] HTTP POST /api/Identification/identify responded 400 in 105.3988 ms
+2025-12-16 10:56:11.558 +05:00 [INF] HTTP POST /api/Identification/identify responded 400 in 8.1511 ms
+2025-12-16 10:56:33.435 +05:00 [INF] Starting identification for file: C:\Users\VisualSoft\AppData\Local\Temp\075a26f6-8453-47d6-90c1-6a90e49383e4.wsq
+2025-12-16 10:57:52.756 +05:00 [INF] ✓ Match found - Best: 80_63_7105 (Score: 1799), Total Matches: 1, Duration: 79321.6322ms
+2025-12-16 10:57:52.763 +05:00 [INF] HTTP POST /api/Identification/identify responded 200 in 79347.7440 ms
+2025-12-16 10:59:12.254 +05:00 [INF] Starting identification for file: C:\Users\VisualSoft\AppData\Local\Temp\1e963e03-d195-42fc-8b0e-253e48e395d1.wsq
+2025-12-16 11:00:37.893 +05:00 [INF] ✓ Match found - Best: 80_63_7107 (Score: 1877), Total Matches: 1, Duration: 85639.5132ms
+2025-12-16 11:00:37.898 +05:00 [INF] HTTP POST /api/Identification/identify responded 200 in 85659.3715 ms
+2025-12-16 11:02:29.468 +05:00 [INF] === Starting Biometric Identification API ===
+2025-12-16 11:02:29.717 +05:00 [INF] Registering BiometricService as Singleton...
+2025-12-16 11:02:29.951 +05:00 [INF] Swagger UI enabled at root URL
+2025-12-16 11:02:30.253 +05:00 [INF] API is ready to accept requests
+2025-12-16 11:02:30.259 +05:00 [INF] Swagger UI: https://localhost:7145
+2025-12-16 11:02:45.976 +05:00 [INF] HTTP GET /swagger/logo.png responded 404 in 4.1278 ms
+2025-12-16 11:03:19.078 +05:00 [INF] Initializing BiometricClusterConnector...
+2025-12-16 11:03:19.181 +05:00 [INF] === Initializing Biometric Cluster Connector ===
+2025-12-16 11:03:19.193 +05:00 [INF] Cluster Server: 192.168.18.142:25452/24932
+2025-12-16 11:03:19.195 +05:00 [INF] License Server: 192.168.18.142:5000
+2025-12-16 11:03:19.197 +05:00 [INF] Obtaining Neurotec licenses...
+2025-12-16 11:03:19.901 +05:00 [INF] All licenses obtained successfully
+2025-12-16 11:03:20.151 +05:00 [INF] Initializing connection to cluster...
+2025-12-16 11:03:20.256 +05:00 [INF] ✓ Successfully connected to Biometric Cluster
+2025-12-16 11:03:20.258 +05:00 [INF] === Biometric Service Ready ===
+2025-12-16 11:03:20.260 +05:00 [INF] BiometricClusterConnector initialized successfully
+2025-12-16 11:03:20.368 +05:00 [INF] Starting identification for file: C:\Users\VisualSoft\AppData\Local\Temp\8f31425b-a71f-408b-b029-1c9fa0827bf6.wsq
+2025-12-16 11:04:42.093 +05:00 [INF] ✓ Match found - Best: 80_63_7106 (Score: 1910), Total Matches: 3, Duration: 81724.3908ms
+2025-12-16 11:04:42.199 +05:00 [INF] HTTP POST /api/Identification/identify responded 200 in 83184.7275 ms
+2025-12-16 11:09:57.527 +05:00 [INF] Starting identification for file: C:\Users\VisualSoft\AppData\Local\Temp\c9a7a658-0a6a-4492-89a2-748590a4f2a7.wsq
+2025-12-16 11:11:16.766 +05:00 [INF] ✓ Match found - Best: 80_63_7105 (Score: 1799), Total Matches: 1, Duration: 79239.4983ms
+2025-12-16 11:11:16.774 +05:00 [INF] HTTP POST /api/Identification/identify responded 200 in 79256.1728 ms
+2025-12-16 12:38:48.489 +05:00 [INF] === Starting Biometric Identification API ===
+2025-12-16 12:38:48.734 +05:00 [INF] Registering BiometricService as Singleton...
+2025-12-16 12:38:48.974 +05:00 [INF] Swagger UI enabled at root URL
+2025-12-16 12:38:49.295 +05:00 [INF] API is ready to accept requests
+2025-12-16 12:38:49.298 +05:00 [INF] Swagger UI: https://localhost:7145
+2025-12-16 12:38:58.330 +05:00 [INF] HTTP GET /swagger/logo.png responded 404 in 4.8876 ms
+2025-12-16 12:41:02.376 +05:00 [INF] Initializing BiometricClusterConnector...
+2025-12-16 12:41:02.516 +05:00 [INF] === Initializing Biometric Cluster Connector ===
+2025-12-16 12:41:02.525 +05:00 [INF] Cluster Server: 192.168.18.142:25452/24932
+2025-12-16 12:41:02.529 +05:00 [INF] License Server: 192.168.18.142:5000
+2025-12-16 12:41:02.534 +05:00 [INF] Obtaining Neurotec licenses...
+2025-12-16 12:41:03.027 +05:00 [INF] All licenses obtained successfully
+2025-12-16 12:41:03.468 +05:00 [INF] Initializing connection to cluster...
+2025-12-16 12:41:03.562 +05:00 [INF] ✓ Successfully connected to Biometric Cluster
+2025-12-16 12:41:03.567 +05:00 [INF] === Biometric Service Ready ===
+2025-12-16 12:41:03.572 +05:00 [INF] BiometricClusterConnector initialized successfully
+2025-12-16 12:41:03.653 +05:00 [INF] Starting identification for file: C:\Users\VisualSoft\AppData\Local\Temp\e16436d9-9b82-48bd-9762-6e3c71c76bbf.wsq
+2025-12-16 12:41:06.131 +05:00 [WRN] Template extraction failed with status: "BadObject"
+2025-12-16 12:41:06.224 +05:00 [INF] HTTP POST /api/Identification/identify responded 200 in 3883.6660 ms
+2025-12-16 12:41:58.674 +05:00 [INF] Starting identification for file: C:\Users\VisualSoft\AppData\Local\Temp\e03d9ad4-5af0-44c6-bb35-dd6cf28e1b7c.wsq
+2025-12-16 12:43:11.935 +05:00 [INF] ✓ Match found - Best: 81_6_325 (Score: 1673), Total Matches: 6, Duration: 73260.3498ms
+2025-12-16 12:43:11.950 +05:00 [INF] HTTP POST /api/Identification/identify responded 200 in 73412.6034 ms
+2025-12-16 12:43:49.987 +05:00 [INF] === Starting Biometric Identification API ===
+2025-12-16 12:43:50.230 +05:00 [INF] Registering BiometricService as Singleton...
+2025-12-16 12:43:50.427 +05:00 [INF] Swagger UI enabled at root URL
+2025-12-16 12:43:50.657 +05:00 [INF] API is ready to accept requests
+2025-12-16 12:43:50.661 +05:00 [INF] Swagger UI: https://localhost:7145
+2025-12-16 12:43:55.385 +05:00 [INF] HTTP GET /swagger/logo.png responded 404 in 3.4635 ms
+2025-12-16 12:45:26.787 +05:00 [INF] Initializing BiometricClusterConnector...
+2025-12-16 12:45:26.871 +05:00 [INF] === Initializing Biometric Cluster Connector ===
+2025-12-16 12:45:26.880 +05:00 [INF] Cluster Server: 192.168.18.142:25452/24932
+2025-12-16 12:45:26.883 +05:00 [INF] License Server: 192.168.18.142:5000
+2025-12-16 12:45:26.885 +05:00 [INF] Obtaining Neurotec licenses...
+2025-12-16 12:45:27.278 +05:00 [INF] All licenses obtained successfully
+2025-12-16 12:45:27.495 +05:00 [INF] Initializing connection to cluster...
+2025-12-16 12:45:27.582 +05:00 [INF] ✓ Successfully connected to Biometric Cluster
+2025-12-16 12:45:27.584 +05:00 [INF] === Biometric Service Ready ===
+2025-12-16 12:45:27.586 +05:00 [INF] BiometricClusterConnector initialized successfully
+2025-12-16 12:45:27.672 +05:00 [INF] Starting identification for file: C:\Users\VisualSoft\AppData\Local\Temp\272951ea-9511-4009-ac68-9471ba2eb8d2.wsq
+2025-12-16 12:45:29.748 +05:00 [WRN] Template extraction failed with status: "BadObject"
+2025-12-16 12:45:29.826 +05:00 [INF] HTTP POST /api/Identification/identify responded 200 in 3091.0128 ms
+2025-12-16 12:45:53.651 +05:00 [INF] Starting identification for file: C:\Users\VisualSoft\AppData\Local\Temp\ccf9fef3-f9ca-42fc-8626-fc6e827c9eea.wsq
+2025-12-16 12:47:07.379 +05:00 [INF] ✓ Match found - Best: 81_6_326 (Score: 1804), Total Matches: 1000, Duration: 73727.578ms
+2025-12-16 12:47:07.454 +05:00 [INF] HTTP POST /api/Identification/identify responded 200 in 73815.0730 ms
+2025-12-16 14:13:51.471 +05:00 [INF] === Starting Biometric Identification API ===
+2025-12-16 14:13:51.625 +05:00 [INF] Registering BiometricService as Singleton...
+2025-12-16 14:13:52.302 +05:00 [INF] Swagger UI enabled at root URL
+2025-12-16 14:13:52.899 +05:00 [INF] API is ready to accept requests
+2025-12-16 14:13:52.902 +05:00 [INF] Swagger UI: https://localhost:7145
+2025-12-16 14:13:59.776 +05:00 [INF] HTTP GET /swagger/logo.png responded 404 in 5.3030 ms

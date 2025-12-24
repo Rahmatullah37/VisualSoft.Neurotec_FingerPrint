@@ -1,0 +1,417 @@
+2025-12-02 11:40:40.855 +05:00 [INF] === Starting Biometric Identification API ===
+2025-12-02 11:40:41.024 +05:00 [INF] Registering BiometricService as Singleton...
+2025-12-02 11:40:41.252 +05:00 [INF] Swagger UI enabled at root URL
+2025-12-02 11:40:41.501 +05:00 [INF] API is ready to accept requests
+2025-12-02 11:40:41.506 +05:00 [INF] Swagger UI: https://localhost:7145
+2025-12-02 11:40:42.146 +05:00 [INF] Now listening on: https://localhost:7145
+2025-12-02 11:40:42.152 +05:00 [INF] Now listening on: http://localhost:5085
+2025-12-02 11:40:42.440 +05:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-12-02 11:40:42.444 +05:00 [INF] Hosting environment: Development
+2025-12-02 11:40:42.446 +05:00 [INF] Content root path: C:\Users\VisualSoft\source\repos\VisualSoft.Biomatric.Identification.API\VisualSoft.Biomatric.Identification.API
+2025-12-02 11:40:44.039 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7145/swagger/index.html - null null
+2025-12-02 11:40:44.749 +05:00 [INF] HTTP GET /swagger/index.html responded 404 in 7.5515 ms
+2025-12-02 11:40:44.881 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7145/swagger/index.html - 404 0 null 868.1123ms
+2025-12-02 11:40:44.976 +05:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7145/swagger/index.html, Response status code: 404
+2025-12-02 11:41:04.409 +05:00 [INF] === Starting Biometric Identification API ===
+2025-12-02 11:41:04.662 +05:00 [INF] Registering BiometricService as Singleton...
+2025-12-02 11:41:04.893 +05:00 [INF] Swagger UI enabled at root URL
+2025-12-02 11:41:05.124 +05:00 [INF] API is ready to accept requests
+2025-12-02 11:41:05.128 +05:00 [INF] Swagger UI: https://localhost:7145
+2025-12-02 11:41:05.790 +05:00 [INF] Now listening on: https://localhost:7145
+2025-12-02 11:41:05.799 +05:00 [INF] Now listening on: http://localhost:5085
+2025-12-02 11:41:06.089 +05:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-12-02 11:41:06.093 +05:00 [INF] Hosting environment: Development
+2025-12-02 11:41:06.097 +05:00 [INF] Content root path: C:\Users\VisualSoft\source\repos\VisualSoft.Biomatric.Identification.API\VisualSoft.Biomatric.Identification.API
+2025-12-02 11:41:07.519 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7145/swagger/index.html - null null
+2025-12-02 11:41:07.820 +05:00 [INF] HTTP GET /swagger/index.html responded 404 in 4.5880 ms
+2025-12-02 11:41:07.838 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7145/swagger/index.html - 404 0 null 341.8856ms
+2025-12-02 11:41:07.857 +05:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7145/swagger/index.html, Response status code: 404
+2025-12-02 11:43:19.450 +05:00 [INF] === Starting Biometric Identification API ===
+2025-12-02 11:43:19.672 +05:00 [INF] Registering BiometricService as Singleton...
+2025-12-02 11:43:19.884 +05:00 [INF] Swagger UI enabled at root URL
+2025-12-02 11:43:20.196 +05:00 [INF] API is ready to accept requests
+2025-12-02 11:43:20.199 +05:00 [INF] Swagger UI: https://localhost:7145
+2025-12-02 11:43:20.870 +05:00 [INF] Now listening on: https://localhost:7145
+2025-12-02 11:43:20.878 +05:00 [INF] Now listening on: http://localhost:5145
+2025-12-02 11:43:21.135 +05:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-12-02 11:43:21.138 +05:00 [INF] Hosting environment: Development
+2025-12-02 11:43:21.140 +05:00 [INF] Content root path: C:\Users\VisualSoft\source\repos\VisualSoft.Biomatric.Identification.API\VisualSoft.Biomatric.Identification.API
+2025-12-02 11:43:22.274 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7145/swagger/index.html - null null
+2025-12-02 11:43:22.590 +05:00 [INF] HTTP GET /swagger/index.html responded 404 in 4.5079 ms
+2025-12-02 11:43:22.610 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7145/swagger/index.html - 404 0 null 351.7147ms
+2025-12-02 11:43:22.627 +05:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7145/swagger/index.html, Response status code: 404
+2025-12-02 11:50:10.088 +05:00 [INF] === Starting Biometric Identification API ===
+2025-12-02 11:50:10.358 +05:00 [INF] Registering BiometricService as Singleton...
+2025-12-02 11:50:10.760 +05:00 [INF] Swagger UI enabled at root URL
+2025-12-02 11:50:11.140 +05:00 [INF] API is ready to accept requests
+2025-12-02 11:50:11.143 +05:00 [INF] Swagger UI: https://localhost:7145
+2025-12-02 11:50:11.914 +05:00 [INF] Now listening on: https://localhost:7145
+2025-12-02 11:50:11.923 +05:00 [INF] Now listening on: http://localhost:5085
+2025-12-02 11:50:12.682 +05:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-12-02 11:50:12.683 +05:00 [INF] Hosting environment: Development
+2025-12-02 11:50:12.685 +05:00 [INF] Content root path: C:\Users\VisualSoft\source\repos\VisualSoft.Biomatric.Identification.API\VisualSoft.Biomatric.Identification.API
+2025-12-02 11:50:13.951 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7145/swagger/index.html - null null
+2025-12-02 11:50:14.586 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7145/_vs/browserLink - null null
+2025-12-02 11:50:14.586 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7145/swagger/index.html - 200 null text/html;charset=utf-8 606.4742ms
+2025-12-02 11:50:14.587 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7145/_framework/aspnetcore-browser-refresh.js - null null
+2025-12-02 11:50:14.881 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7145/_framework/aspnetcore-browser-refresh.js - 200 16563 application/javascript; charset=utf-8 294.6098ms
+2025-12-02 11:50:15.219 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7145/_vs/browserLink - 200 null text/javascript; charset=UTF-8 633.2092ms
+2025-12-02 11:50:17.240 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7145/swagger/logo.png - null null
+2025-12-02 11:50:17.277 +05:00 [INF] HTTP GET /swagger/logo.png responded 404 in 6.2332 ms
+2025-12-02 11:50:17.283 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7145/swagger/logo.png - 404 0 null 52.4077ms
+2025-12-02 11:50:17.298 +05:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7145/swagger/logo.png, Response status code: 404
+2025-12-02 11:50:17.364 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7145/swagger/v1/swagger.json - null null
+2025-12-02 11:50:17.446 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7145/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 83.6019ms
+2025-12-02 11:50:28.563 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7145/api/Identification/health - null null
+2025-12-02 11:50:28.576 +05:00 [INF] Executing endpoint 'VisualSoft.Biomatric.Identification.API.Controllers.IdentificationController.Health (VisualSoft.Biomatric.Identification.API)'
+2025-12-02 11:50:28.636 +05:00 [INF] Route matched with {action = "Health", controller = "Identification"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Health() on controller VisualSoft.Biomatric.Identification.API.Controllers.IdentificationController (VisualSoft.Biomatric.Identification.API).
+2025-12-02 11:50:28.647 +05:00 [INF] Initializing BiometricClusterConnector...
+2025-12-02 11:50:28.749 +05:00 [INF] === Initializing Biometric Cluster Connector ===
+2025-12-02 11:50:28.942 +05:00 [ERR] Failed to initialize Biometric Cluster Connector
+System.ArgumentNullException: Value cannot be null. (Parameter 's')
+   at System.Int32.Parse(String s)
+   at VisualSoft.Biomatric.Identification.Services.BiometricClusterConnector.ConnectAsync(IConfiguration config, ILogger`1 logger) in C:\Users\VisualSoft\source\repos\VisualSoft.Biomatric.Identification.API\VisualSoft.Biomatric.Identification.Services\BiometricClusterConnector.cs:line 34
+2025-12-02 11:50:47.463 +05:00 [INF] Executed action VisualSoft.Biomatric.Identification.API.Controllers.IdentificationController.Health (VisualSoft.Biomatric.Identification.API) in 18813.9477ms
+2025-12-02 11:50:47.467 +05:00 [INF] Executed endpoint 'VisualSoft.Biomatric.Identification.API.Controllers.IdentificationController.Health (VisualSoft.Biomatric.Identification.API)'
+2025-12-02 11:50:47.470 +05:00 [ERR] HTTP GET /api/Identification/health responded 500 in 18897.1341 ms
+System.ArgumentNullException: Value cannot be null. (Parameter 's')
+   at System.Int32.Parse(String s)
+   at VisualSoft.Biomatric.Identification.Services.BiometricClusterConnector.ConnectAsync(IConfiguration config, ILogger`1 logger) in C:\Users\VisualSoft\source\repos\VisualSoft.Biomatric.Identification.API\VisualSoft.Biomatric.Identification.Services\BiometricClusterConnector.cs:line 34
+   at Program.<>c.<<Main>$>b__0_1(IServiceProvider serviceProvider) in C:\Users\VisualSoft\source\repos\VisualSoft.Biomatric.Identification.API\VisualSoft.Biomatric.Identification.API\Program.cs:line 92
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitFactory(FactoryCallSite factoryCallSite, RuntimeResolverContext context)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSiteMain(ServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitRootCache(ServiceCallSite callSite, RuntimeResolverContext context)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSite(ServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.Resolve(ServiceCallSite callSite, ServiceProviderEngineScope scope)
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider.CreateServiceAccessor(ServiceIdentifier serviceIdentifier)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.GetOrAdd(TKey key, Func`2 valueFactory)
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider.GetService(ServiceIdentifier serviceIdentifier, ServiceProviderEngineScope serviceProviderEngineScope)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.ServiceProviderEngineScope.GetService(Type serviceType)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean hasDefaultValue, Object key)
+   at lambda_method4(Closure, IServiceProvider, Object[])
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass6_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+2025-12-02 11:50:47.497 +05:00 [ERR] An unhandled exception has occurred while executing the request.
+System.ArgumentNullException: Value cannot be null. (Parameter 's')
+   at System.Int32.Parse(String s)
+   at VisualSoft.Biomatric.Identification.Services.BiometricClusterConnector.ConnectAsync(IConfiguration config, ILogger`1 logger) in C:\Users\VisualSoft\source\repos\VisualSoft.Biomatric.Identification.API\VisualSoft.Biomatric.Identification.Services\BiometricClusterConnector.cs:line 34
+   at Program.<>c.<<Main>$>b__0_1(IServiceProvider serviceProvider) in C:\Users\VisualSoft\source\repos\VisualSoft.Biomatric.Identification.API\VisualSoft.Biomatric.Identification.API\Program.cs:line 92
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitFactory(FactoryCallSite factoryCallSite, RuntimeResolverContext context)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSiteMain(ServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitRootCache(ServiceCallSite callSite, RuntimeResolverContext context)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSite(ServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.Resolve(ServiceCallSite callSite, ServiceProviderEngineScope scope)
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider.CreateServiceAccessor(ServiceIdentifier serviceIdentifier)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.GetOrAdd(TKey key, Func`2 valueFactory)
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider.GetService(ServiceIdentifier serviceIdentifier, ServiceProviderEngineScope serviceProviderEngineScope)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.ServiceProviderEngineScope.GetService(Type serviceType)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean hasDefaultValue, Object key)
+   at lambda_method4(Closure, IServiceProvider, Object[])
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass6_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2025-12-02 11:50:47.529 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7145/api/Identification/health - 500 null text/plain; charset=utf-8 18966.1682ms
+2025-12-02 11:51:21.992 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7145/api/Identification/info - null null
+2025-12-02 11:51:21.997 +05:00 [INF] Executing endpoint 'VisualSoft.Biomatric.Identification.API.Controllers.IdentificationController.Info (VisualSoft.Biomatric.Identification.API)'
+2025-12-02 11:51:22.000 +05:00 [INF] Route matched with {action = "Info", controller = "Identification"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Info() on controller VisualSoft.Biomatric.Identification.API.Controllers.IdentificationController (VisualSoft.Biomatric.Identification.API).
+2025-12-02 11:51:22.003 +05:00 [INF] Initializing BiometricClusterConnector...
+2025-12-02 11:51:22.004 +05:00 [INF] === Initializing Biometric Cluster Connector ===
+2025-12-02 11:51:38.828 +05:00 [ERR] Failed to initialize Biometric Cluster Connector
+System.ArgumentNullException: Value cannot be null. (Parameter 's')
+   at System.Int32.Parse(String s)
+   at VisualSoft.Biomatric.Identification.Services.BiometricClusterConnector.ConnectAsync(IConfiguration config, ILogger`1 logger) in C:\Users\VisualSoft\source\repos\VisualSoft.Biomatric.Identification.API\VisualSoft.Biomatric.Identification.Services\BiometricClusterConnector.cs:line 34
+2025-12-02 11:52:46.485 +05:00 [INF] Executed action VisualSoft.Biomatric.Identification.API.Controllers.IdentificationController.Info (VisualSoft.Biomatric.Identification.API) in 84480.6572ms
+2025-12-02 11:52:46.491 +05:00 [INF] Executed endpoint 'VisualSoft.Biomatric.Identification.API.Controllers.IdentificationController.Info (VisualSoft.Biomatric.Identification.API)'
+2025-12-02 11:52:46.494 +05:00 [ERR] HTTP GET /api/Identification/info responded 500 in 84497.8317 ms
+System.ArgumentNullException: Value cannot be null. (Parameter 's')
+   at System.Int32.Parse(String s)
+   at VisualSoft.Biomatric.Identification.Services.BiometricClusterConnector.ConnectAsync(IConfiguration config, ILogger`1 logger) in C:\Users\VisualSoft\source\repos\VisualSoft.Biomatric.Identification.API\VisualSoft.Biomatric.Identification.Services\BiometricClusterConnector.cs:line 34
+   at Program.<>c.<<Main>$>b__0_1(IServiceProvider serviceProvider) in C:\Users\VisualSoft\source\repos\VisualSoft.Biomatric.Identification.API\VisualSoft.Biomatric.Identification.API\Program.cs:line 92
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitFactory(FactoryCallSite factoryCallSite, RuntimeResolverContext context)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSiteMain(ServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitRootCache(ServiceCallSite callSite, RuntimeResolverContext context)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSite(ServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.Resolve(ServiceCallSite callSite, ServiceProviderEngineScope scope)
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider.CreateServiceAccessor(ServiceIdentifier serviceIdentifier)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.GetOrAdd(TKey key, Func`2 valueFactory)
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider.GetService(ServiceIdentifier serviceIdentifier, ServiceProviderEngineScope serviceProviderEngineScope)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.ServiceProviderEngineScope.GetService(Type serviceType)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean hasDefaultValue, Object key)
+   at lambda_method6(Closure, IServiceProvider, Object[])
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass6_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+2025-12-02 11:52:46.511 +05:00 [ERR] An unhandled exception has occurred while executing the request.
+System.ArgumentNullException: Value cannot be null. (Parameter 's')
+   at System.Int32.Parse(String s)
+   at VisualSoft.Biomatric.Identification.Services.BiometricClusterConnector.ConnectAsync(IConfiguration config, ILogger`1 logger) in C:\Users\VisualSoft\source\repos\VisualSoft.Biomatric.Identification.API\VisualSoft.Biomatric.Identification.Services\BiometricClusterConnector.cs:line 34
+   at Program.<>c.<<Main>$>b__0_1(IServiceProvider serviceProvider) in C:\Users\VisualSoft\source\repos\VisualSoft.Biomatric.Identification.API\VisualSoft.Biomatric.Identification.API\Program.cs:line 92
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitFactory(FactoryCallSite factoryCallSite, RuntimeResolverContext context)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSiteMain(ServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitRootCache(ServiceCallSite callSite, RuntimeResolverContext context)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSite(ServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.Resolve(ServiceCallSite callSite, ServiceProviderEngineScope scope)
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider.CreateServiceAccessor(ServiceIdentifier serviceIdentifier)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.GetOrAdd(TKey key, Func`2 valueFactory)
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider.GetService(ServiceIdentifier serviceIdentifier, ServiceProviderEngineScope serviceProviderEngineScope)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.ServiceProviderEngineScope.GetService(Type serviceType)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean hasDefaultValue, Object key)
+   at lambda_method6(Closure, IServiceProvider, Object[])
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass6_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2025-12-02 11:52:46.528 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7145/api/Identification/info - 500 null text/plain; charset=utf-8 84535.8697ms
+2025-12-02 11:53:31.267 +05:00 [INF] === Starting Biometric Identification API ===
+2025-12-02 11:53:31.471 +05:00 [INF] Registering BiometricService as Singleton...
+2025-12-02 11:53:31.722 +05:00 [INF] Swagger UI enabled at root URL
+2025-12-02 11:53:31.995 +05:00 [INF] API is ready to accept requests
+2025-12-02 11:53:31.999 +05:00 [INF] Swagger UI: https://localhost:7145
+2025-12-02 11:53:32.691 +05:00 [INF] Now listening on: https://localhost:7145
+2025-12-02 11:53:32.703 +05:00 [INF] Now listening on: http://localhost:5085
+2025-12-02 11:53:32.945 +05:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-12-02 11:53:32.947 +05:00 [INF] Hosting environment: Development
+2025-12-02 11:53:32.949 +05:00 [INF] Content root path: C:\Users\VisualSoft\source\repos\VisualSoft.Biomatric.Identification.API\VisualSoft.Biomatric.Identification.API
+2025-12-02 11:53:33.967 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7145/swagger/index.html - null null
+2025-12-02 11:53:34.403 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7145/swagger/index.html - 200 null text/html;charset=utf-8 458.2101ms
+2025-12-02 11:53:34.495 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7145/_framework/aspnetcore-browser-refresh.js - null null
+2025-12-02 11:53:34.499 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7145/_vs/browserLink - null null
+2025-12-02 11:53:34.526 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7145/_framework/aspnetcore-browser-refresh.js - 200 16563 application/javascript; charset=utf-8 38.7893ms
+2025-12-02 11:53:34.656 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7145/_vs/browserLink - 200 null text/javascript; charset=UTF-8 156.6023ms
+2025-12-02 11:53:36.021 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7145/swagger/logo.png - null null
+2025-12-02 11:53:36.052 +05:00 [INF] HTTP GET /swagger/logo.png responded 404 in 3.8105 ms
+2025-12-02 11:53:36.060 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7145/swagger/logo.png - 404 0 null 38.9827ms
+2025-12-02 11:53:36.074 +05:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7145/swagger/logo.png, Response status code: 404
+2025-12-02 11:53:36.162 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7145/swagger/v1/swagger.json - null null
+2025-12-02 11:53:36.245 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7145/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 82.9021ms
+2025-12-02 11:55:12.934 +05:00 [INF] === Starting Biometric Identification API ===
+2025-12-02 11:55:13.139 +05:00 [INF] Registering BiometricService as Singleton...
+2025-12-02 11:55:13.379 +05:00 [INF] Swagger UI enabled at root URL
+2025-12-02 11:55:13.679 +05:00 [INF] API is ready to accept requests
+2025-12-02 11:55:13.684 +05:00 [INF] Swagger UI: https://localhost:7145
+2025-12-02 11:55:14.366 +05:00 [INF] Now listening on: https://localhost:7145
+2025-12-02 11:55:14.388 +05:00 [INF] Now listening on: http://localhost:5085
+2025-12-02 11:55:14.652 +05:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-12-02 11:55:14.654 +05:00 [INF] Hosting environment: Development
+2025-12-02 11:55:14.655 +05:00 [INF] Content root path: C:\Users\VisualSoft\source\repos\VisualSoft.Biomatric.Identification.API\VisualSoft.Biomatric.Identification.API
+2025-12-02 11:55:15.697 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7145/swagger/index.html - null null
+2025-12-02 11:55:16.189 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7145/swagger/index.html - 200 null text/html;charset=utf-8 512.7799ms
+2025-12-02 11:55:16.258 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7145/_vs/browserLink - null null
+2025-12-02 11:55:16.258 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7145/_framework/aspnetcore-browser-refresh.js - null null
+2025-12-02 11:55:16.308 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7145/_framework/aspnetcore-browser-refresh.js - 200 16563 application/javascript; charset=utf-8 44.6702ms
+2025-12-02 11:55:16.399 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7145/_vs/browserLink - 200 null text/javascript; charset=UTF-8 141.1558ms
+2025-12-02 11:55:17.754 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7145/swagger/logo.png - null null
+2025-12-02 11:55:17.785 +05:00 [INF] HTTP GET /swagger/logo.png responded 404 in 3.3115 ms
+2025-12-02 11:55:17.790 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7145/swagger/logo.png - 404 0 null 35.7682ms
+2025-12-02 11:55:17.801 +05:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7145/swagger/logo.png, Response status code: 404
+2025-12-02 11:55:17.890 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7145/swagger/v1/swagger.json - null null
+2025-12-02 11:55:17.947 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7145/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 57.2394ms
+2025-12-02 11:55:35.509 +05:00 [INF] Request starting HTTP/2 POST https://localhost:7145/api/Identification/identify - multipart/form-data; boundary=----WebKitFormBoundaryZpxOpgFV6e4GBAAB 37660
+2025-12-02 11:55:35.528 +05:00 [INF] CORS policy execution successful.
+2025-12-02 11:55:35.533 +05:00 [INF] Executing endpoint 'VisualSoft.Biomatric.Identification.API.Controllers.IdentificationController.Identify (VisualSoft.Biomatric.Identification.API)'
+2025-12-02 11:55:35.590 +05:00 [INF] Route matched with {action = "Identify", controller = "Identification"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[VisualSoft.Biomatric.Identification.Domain.Models.IdentificationResult]] Identify(Microsoft.AspNetCore.Http.IFormFile) on controller VisualSoft.Biomatric.Identification.API.Controllers.IdentificationController (VisualSoft.Biomatric.Identification.API).
+2025-12-02 11:55:35.598 +05:00 [INF] Initializing BiometricClusterConnector...
+2025-12-02 11:55:35.692 +05:00 [INF] === Initializing Biometric Cluster Connector ===
+2025-12-02 11:56:01.624 +05:00 [ERR] Failed to initialize Biometric Cluster Connector
+System.ArgumentNullException: Value cannot be null. (Parameter 's')
+   at System.Int32.Parse(String s)
+   at VisualSoft.Biomatric.Identification.Services.BiometricClusterConnector.ConnectAsync(IConfiguration config, ILogger`1 logger) in C:\Users\VisualSoft\source\repos\VisualSoft.Biomatric.Identification.API\VisualSoft.Biomatric.Identification.Services\BiometricClusterConnector.cs:line 34
+2025-12-02 11:56:03.189 +05:00 [INF] Executed action VisualSoft.Biomatric.Identification.API.Controllers.IdentificationController.Identify (VisualSoft.Biomatric.Identification.API) in 27590.672ms
+2025-12-02 11:56:03.193 +05:00 [INF] Executed endpoint 'VisualSoft.Biomatric.Identification.API.Controllers.IdentificationController.Identify (VisualSoft.Biomatric.Identification.API)'
+2025-12-02 11:56:03.196 +05:00 [ERR] HTTP POST /api/Identification/identify responded 500 in 27675.3497 ms
+System.ArgumentNullException: Value cannot be null. (Parameter 's')
+   at System.Int32.Parse(String s)
+   at VisualSoft.Biomatric.Identification.Services.BiometricClusterConnector.ConnectAsync(IConfiguration config, ILogger`1 logger) in C:\Users\VisualSoft\source\repos\VisualSoft.Biomatric.Identification.API\VisualSoft.Biomatric.Identification.Services\BiometricClusterConnector.cs:line 34
+   at Program.<>c.<<Main>$>b__0_1(IServiceProvider serviceProvider) in C:\Users\VisualSoft\source\repos\VisualSoft.Biomatric.Identification.API\VisualSoft.Biomatric.Identification.API\Program.cs:line 92
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitFactory(FactoryCallSite factoryCallSite, RuntimeResolverContext context)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSiteMain(ServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitRootCache(ServiceCallSite callSite, RuntimeResolverContext context)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSite(ServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.Resolve(ServiceCallSite callSite, ServiceProviderEngineScope scope)
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider.CreateServiceAccessor(ServiceIdentifier serviceIdentifier)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.GetOrAdd(TKey key, Func`2 valueFactory)
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider.GetService(ServiceIdentifier serviceIdentifier, ServiceProviderEngineScope serviceProviderEngineScope)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.ServiceProviderEngineScope.GetService(Type serviceType)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean hasDefaultValue, Object key)
+   at lambda_method10(Closure, IServiceProvider, Object[])
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass6_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+2025-12-02 11:56:03.216 +05:00 [ERR] An unhandled exception has occurred while executing the request.
+System.ArgumentNullException: Value cannot be null. (Parameter 's')
+   at System.Int32.Parse(String s)
+   at VisualSoft.Biomatric.Identification.Services.BiometricClusterConnector.ConnectAsync(IConfiguration config, ILogger`1 logger) in C:\Users\VisualSoft\source\repos\VisualSoft.Biomatric.Identification.API\VisualSoft.Biomatric.Identification.Services\BiometricClusterConnector.cs:line 34
+   at Program.<>c.<<Main>$>b__0_1(IServiceProvider serviceProvider) in C:\Users\VisualSoft\source\repos\VisualSoft.Biomatric.Identification.API\VisualSoft.Biomatric.Identification.API\Program.cs:line 92
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitFactory(FactoryCallSite factoryCallSite, RuntimeResolverContext context)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSiteMain(ServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitRootCache(ServiceCallSite callSite, RuntimeResolverContext context)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSite(ServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.Resolve(ServiceCallSite callSite, ServiceProviderEngineScope scope)
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider.CreateServiceAccessor(ServiceIdentifier serviceIdentifier)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.GetOrAdd(TKey key, Func`2 valueFactory)
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider.GetService(ServiceIdentifier serviceIdentifier, ServiceProviderEngineScope serviceProviderEngineScope)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.ServiceProviderEngineScope.GetService(Type serviceType)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean hasDefaultValue, Object key)
+   at lambda_method10(Closure, IServiceProvider, Object[])
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass6_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2025-12-02 11:56:03.240 +05:00 [INF] Request finished HTTP/2 POST https://localhost:7145/api/Identification/identify - 500 null text/plain; charset=utf-8 27731.2469ms
+2025-12-02 11:57:57.127 +05:00 [INF] === Starting Biometric Identification API ===
+2025-12-02 11:57:57.305 +05:00 [INF] Registering BiometricService as Singleton...
+2025-12-02 11:57:57.551 +05:00 [INF] Swagger UI enabled at root URL
+2025-12-02 11:57:57.789 +05:00 [INF] API is ready to accept requests
+2025-12-02 11:57:57.793 +05:00 [INF] Swagger UI: https://localhost:7145
+2025-12-02 11:58:02.705 +05:00 [INF] HTTP GET /swagger/logo.png responded 404 in 5.5921 ms
+2025-12-02 11:58:11.755 +05:00 [INF] Initializing BiometricClusterConnector...
+2025-12-02 11:58:11.889 +05:00 [INF] === Initializing Biometric Cluster Connector ===
+2025-12-02 11:58:55.227 +05:00 [INF] Cluster Server: 192.168.18.142:25452/24932
+2025-12-02 11:58:57.993 +05:00 [INF] License Server: 192.168.18.142:5000
+2025-12-02 11:59:30.679 +05:00 [INF] Obtaining Neurotec licenses...
+2025-12-02 11:59:54.385 +05:00 [INF] ✓ All licenses obtained successfully
+2025-12-02 12:00:00.920 +05:00 [INF] Initializing connection to cluster...
+2025-12-02 12:00:04.493 +05:00 [INF] ✓ Successfully connected to Biometric Cluster
+2025-12-02 12:00:07.471 +05:00 [INF] === Biometric Service Ready ===
+2025-12-02 12:00:18.881 +05:00 [INF] BiometricClusterConnector initialized successfully
+2025-12-02 12:00:28.570 +05:00 [INF] [1af220ae] New identification request
+2025-12-02 12:00:46.643 +05:00 [INF] Starting identification for file: C:\Users\VisualSoft\AppData\Local\Temp\ddb70230-81e2-44b2-bb77-66eec833f1b4.wsq
+2025-12-02 12:01:19.804 +05:00 [INF] ✓ Match found - Subject: 230_48, Score: 1748, Threshold: 48, Duration: 36191.3042ms
+2025-12-02 12:01:27.883 +05:00 [INF] [1af220ae] Match Found - Subject: 230_48, Score: 1748
+2025-12-02 12:01:35.614 +05:00 [INF] HTTP POST /api/Identification/identify responded 200 in 203974.8545 ms
+2025-12-02 12:15:20.467 +05:00 [INF] [81face2e] New identification request
+2025-12-02 12:15:20.474 +05:00 [INF] Starting identification for file: C:\Users\VisualSoft\AppData\Local\Temp\80c696a1-e056-4741-b626-c2c73a24d58e.wsq
+2025-12-02 12:15:29.881 +05:00 [INF] ✓ Match found - Subject: 230_46, Score: 1838, Threshold: 48, Duration: 9407.0438ms
+2025-12-02 12:15:29.888 +05:00 [INF] [81face2e] Match Found - Subject: 230_46, Score: 1838
+2025-12-02 12:15:29.896 +05:00 [INF] HTTP POST /api/Identification/identify responded 200 in 9776.2625 ms
+2025-12-02 13:02:56.749 +05:00 [INF] === Starting Biometric Identification API ===
+2025-12-02 13:02:56.933 +05:00 [INF] Registering BiometricService as Singleton...
+2025-12-02 13:02:57.176 +05:00 [INF] Swagger UI enabled at root URL
+2025-12-02 13:02:57.412 +05:00 [INF] API is ready to accept requests
+2025-12-02 13:02:57.414 +05:00 [INF] Swagger UI: https://localhost:7145
+2025-12-02 13:03:04.503 +05:00 [INF] HTTP GET /swagger/logo.png responded 404 in 8.0969 ms
+2025-12-02 13:03:14.131 +05:00 [INF] Initializing BiometricClusterConnector...
+2025-12-02 13:03:14.966 +05:00 [INF] === Initializing Biometric Cluster Connector ===
+2025-12-02 13:03:20.153 +05:00 [INF] Cluster Server: 192.168.18.142:25452/24932
+2025-12-02 13:03:20.155 +05:00 [INF] License Server: 192.168.18.142:5000
+2025-12-02 13:03:20.158 +05:00 [INF] Obtaining Neurotec licenses...
+2025-12-02 13:03:20.652 +05:00 [INF] ✓ All licenses obtained successfully
+2025-12-02 13:03:20.932 +05:00 [INF] Initializing connection to cluster...
+2025-12-02 13:03:21.058 +05:00 [INF] ✓ Successfully connected to Biometric Cluster
+2025-12-02 13:03:21.061 +05:00 [INF] === Biometric Service Ready ===
+2025-12-02 13:03:21.065 +05:00 [INF] BiometricClusterConnector initialized successfully
+2025-12-02 13:03:21.204 +05:00 [INF] [ceb2a89b] New identification request
+2025-12-02 13:03:21.232 +05:00 [INF] Starting identification for file: C:\Users\VisualSoft\AppData\Local\Temp\5e1d7d31-6f12-4885-acb3-24353e630e2c.wsq
+2025-12-02 13:03:27.013 +05:00 [INF] ✓ Match found - Best: 230_46 (Score: 1838), Total Matches: 2, Duration: 5779.8153ms
+2025-12-02 13:03:27.026 +05:00 [INF] [ceb2a89b] Match Found - Subject: 230_46, Score: 1838
+2025-12-02 13:03:27.094 +05:00 [INF] HTTP POST /api/Identification/identify responded 200 in 13096.0229 ms
+2025-12-02 13:05:59.526 +05:00 [INF] === Starting Biometric Identification API ===
+2025-12-02 13:05:59.760 +05:00 [INF] Registering BiometricService as Singleton...
+2025-12-02 13:06:00.027 +05:00 [INF] Swagger UI enabled at root URL
+2025-12-02 13:06:00.386 +05:00 [INF] API is ready to accept requests
+2025-12-02 13:06:00.391 +05:00 [INF] Swagger UI: https://localhost:7145
+2025-12-02 13:06:06.704 +05:00 [INF] HTTP GET /swagger/logo.png responded 404 in 20.7639 ms
+2025-12-02 13:06:22.082 +05:00 [INF] Initializing BiometricClusterConnector...
+2025-12-02 13:06:22.176 +05:00 [INF] === Initializing Biometric Cluster Connector ===
+2025-12-02 13:06:22.187 +05:00 [INF] Cluster Server: 192.168.18.142:25452/24932
+2025-12-02 13:06:22.190 +05:00 [INF] License Server: 192.168.18.142:5000
+2025-12-02 13:06:22.192 +05:00 [INF] Obtaining Neurotec licenses...
+2025-12-02 13:06:23.627 +05:00 [INF] ✓ All licenses obtained successfully
+2025-12-02 13:06:23.813 +05:00 [INF] Initializing connection to cluster...
+2025-12-02 13:06:23.843 +05:00 [INF] ✓ Successfully connected to Biometric Cluster
+2025-12-02 13:06:23.845 +05:00 [INF] === Biometric Service Ready ===
+2025-12-02 13:06:23.848 +05:00 [INF] BiometricClusterConnector initialized successfully
+2025-12-02 13:06:23.889 +05:00 [INF] HTTP GET /api/Identification/health responded 200 in 1835.8066 ms
+2025-12-02 13:09:01.360 +05:00 [INF] [dd7cd24e] New identification request
+2025-12-02 13:09:01.487 +05:00 [INF] Starting identification for file: C:\Users\VisualSoft\AppData\Local\Temp\73058a5e-4c0e-44f7-944f-6a0c6cc95736.wsq
+2025-12-02 13:09:13.196 +05:00 [INF] ✓ Match found - Best: 230_46 (Score: 1838), Total Matches: 2, Duration: 11708.297ms
+2025-12-02 13:09:13.202 +05:00 [INF] [dd7cd24e] Match Found - Subject: 230_46, Score: 1838
+2025-12-02 13:09:13.227 +05:00 [INF] HTTP POST /api/Identification/identify responded 200 in 12090.7713 ms
+2025-12-02 13:09:16.444 +05:00 [INF] HTTP GET /swagger/logo.png responded 404 in 0.1673 ms
+2025-12-02 13:09:26.858 +05:00 [INF] [d0ff31aa] New identification request
+2025-12-02 13:09:26.862 +05:00 [INF] Starting identification for file: C:\Users\VisualSoft\AppData\Local\Temp\dfb7ac32-6807-4258-82c2-4ca301330b56.wsq
+2025-12-02 13:09:31.427 +05:00 [INF] ✓ Match found - Best: 230_46 (Score: 1838), Total Matches: 2, Duration: 4564.9138ms
+2025-12-02 13:09:31.431 +05:00 [INF] [d0ff31aa] Match Found - Subject: 230_46, Score: 1838
+2025-12-02 13:09:31.438 +05:00 [INF] HTTP POST /api/Identification/identify responded 200 in 4587.2341 ms
+2025-12-02 13:12:55.242 +05:00 [INF] [154b1af7] New identification request
+2025-12-02 13:12:55.258 +05:00 [INF] Starting identification for file: C:\Users\VisualSoft\AppData\Local\Temp\2e3b6619-362e-4499-a610-a6056aefde5d.wsq
+2025-12-02 13:13:00.193 +05:00 [INF] ✓ Match found - Best: 230_46 (Score: 1838), Total Matches: 2, Duration: 4934.8753ms
+2025-12-02 13:13:00.197 +05:00 [INF] [154b1af7] Match Found - Subject: 230_46, Score: 1838
+2025-12-02 13:13:00.200 +05:00 [INF] HTTP POST /api/Identification/identify responded 200 in 4961.9136 ms
+2025-12-02 13:16:35.638 +05:00 [INF] === Starting Biometric Identification API ===
+2025-12-02 13:16:35.869 +05:00 [INF] Registering BiometricService as Singleton...
+2025-12-02 13:16:36.095 +05:00 [INF] Swagger UI enabled at root URL
+2025-12-02 13:16:36.399 +05:00 [INF] API is ready to accept requests
+2025-12-02 13:16:36.404 +05:00 [INF] Swagger UI: https://localhost:7145
+2025-12-02 13:16:42.103 +05:00 [INF] HTTP GET /swagger/logo.png responded 404 in 4.2820 ms
+2025-12-02 13:16:54.160 +05:00 [INF] Initializing BiometricClusterConnector...
+2025-12-02 13:16:54.262 +05:00 [INF] === Initializing Biometric Cluster Connector ===
+2025-12-02 13:16:54.273 +05:00 [INF] Cluster Server: 192.168.18.142:25452/24932
+2025-12-02 13:16:54.276 +05:00 [INF] License Server: 192.168.18.142:5000
+2025-12-02 13:16:54.278 +05:00 [INF] Obtaining Neurotec licenses...
+2025-12-02 13:16:54.689 +05:00 [INF] All licenses obtained successfully
+2025-12-02 13:16:54.906 +05:00 [INF] Initializing connection to cluster...
+2025-12-02 13:16:54.985 +05:00 [INF] ✓ Successfully connected to Biometric Cluster
+2025-12-02 13:16:54.988 +05:00 [INF] === Biometric Service Ready ===
+2025-12-02 13:16:54.991 +05:00 [INF] BiometricClusterConnector initialized successfully

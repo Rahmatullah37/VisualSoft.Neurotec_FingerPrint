@@ -1,0 +1,298 @@
+2025-12-22 11:41:02.321 +05:00 [INF] === Starting Biometric Identification API ===
+2025-12-22 11:41:02.600 +05:00 [INF] Registering BiometricService as Singleton...
+2025-12-22 11:41:03.454 +05:00 [INF] Swagger UI enabled at root URL
+2025-12-22 11:41:04.023 +05:00 [INF] API is ready to accept requests
+2025-12-22 11:41:04.027 +05:00 [INF] Swagger UI: https://localhost:7145
+2025-12-22 11:41:12.719 +05:00 [INF] HTTP GET /swagger/logo.png responded 404 in 5.5209 ms
+2025-12-22 11:41:51.608 +05:00 [INF] Initializing BiometricClusterConnector...
+2025-12-22 11:41:51.723 +05:00 [INF] === Initializing Biometric Cluster Connector ===
+2025-12-22 11:41:51.736 +05:00 [INF] Cluster Server: 192.168.18.142:25452/24932
+2025-12-22 11:41:51.739 +05:00 [INF] License Server: 192.168.18.142:5000
+2025-12-22 11:41:51.741 +05:00 [INF] Obtaining Neurotec licenses...
+2025-12-22 11:42:13.490 +05:00 [ERR] Failed to initialize Biometric Cluster Connector
+Neurotec.Runtime.InteropServices.SysException (0): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+   at NLicensing.DLL+0xAF11B
+   --- End of unmanaged stack trace ---
+   at Neurotec.NResult.RaiseError(Int32 error)
+   at Neurotec.NResult.Check(Int32 result)
+   at Neurotec.Licensing.NLicense.ObtainComponents(String address, String port, String components)
+   at VisualSoft.Biomatric.Identification.Services.BiometricClusterConnector.ConnectAsync(IConfiguration config, ILogger`1 logger) in C:\Users\VisualSoft\source\repos\VisualSoft.Biomatric.Identification.API\VisualSoft.Biomatric.Identification.Services\BiometricClusterConnector.cs:line 56
+2025-12-22 11:43:23.041 +05:00 [INF] === Starting Biometric Identification API ===
+2025-12-22 11:43:23.317 +05:00 [INF] Registering BiometricService as Singleton...
+2025-12-22 11:43:23.524 +05:00 [INF] Swagger UI enabled at root URL
+2025-12-22 11:43:23.770 +05:00 [INF] API is ready to accept requests
+2025-12-22 11:43:23.773 +05:00 [INF] Swagger UI: https://localhost:7145
+2025-12-22 11:43:30.973 +05:00 [INF] HTTP GET /swagger/logo.png responded 404 in 6.1286 ms
+2025-12-22 11:44:05.431 +05:00 [INF] Initializing BiometricClusterConnector...
+2025-12-22 11:44:05.521 +05:00 [INF] === Initializing Biometric Cluster Connector ===
+2025-12-22 11:44:05.529 +05:00 [INF] Cluster Server: 192.168.18.142:25452/24932
+2025-12-22 11:44:05.531 +05:00 [INF] License Server: 192.168.18.142:5000
+2025-12-22 11:44:05.534 +05:00 [INF] Obtaining Neurotec licenses...
+2025-12-22 11:44:27.173 +05:00 [ERR] Failed to initialize Biometric Cluster Connector
+Neurotec.Runtime.InteropServices.SysException (0): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+   at NLicensing.DLL+0xAF11B
+   --- End of unmanaged stack trace ---
+   at Neurotec.NResult.RaiseError(Int32 error)
+   at Neurotec.NResult.Check(Int32 result)
+   at Neurotec.Licensing.NLicense.ObtainComponents(String address, String port, String components)
+   at VisualSoft.Biomatric.Identification.Services.BiometricClusterConnector.ConnectAsync(IConfiguration config, ILogger`1 logger) in C:\Users\VisualSoft\source\repos\VisualSoft.Biomatric.Identification.API\VisualSoft.Biomatric.Identification.Services\BiometricClusterConnector.cs:line 56
+2025-12-22 11:53:58.350 +05:00 [INF] === Starting Biometric Identification API ===
+2025-12-22 11:53:58.608 +05:00 [INF] Registering BiometricService as Singleton...
+2025-12-22 11:53:58.833 +05:00 [INF] Swagger UI enabled at root URL
+2025-12-22 11:53:59.067 +05:00 [INF] API is ready to accept requests
+2025-12-22 11:53:59.071 +05:00 [INF] Swagger UI: https://localhost:7145
+2025-12-22 11:54:05.879 +05:00 [INF] HTTP GET /swagger/logo.png responded 404 in 6.1440 ms
+2025-12-22 11:54:23.876 +05:00 [INF] Initializing BiometricClusterConnector...
+2025-12-22 11:54:23.956 +05:00 [INF] === Initializing Biometric Cluster Connector ===
+2025-12-22 11:54:23.967 +05:00 [INF] Cluster Server: 192.168.18.142:25452/24932
+2025-12-22 11:54:23.970 +05:00 [INF] License Server: 192.168.18.142:5000
+2025-12-22 11:54:23.974 +05:00 [INF] Obtaining Neurotec licenses...
+2025-12-22 11:54:26.645 +05:00 [ERR] Failed to initialize Biometric Cluster Connector
+Neurotec.Runtime.InteropServices.SysException (0): No connection could be made because the target machine actively refused it.
+   at NLicensing.DLL+0xAF11B
+   --- End of unmanaged stack trace ---
+   at Neurotec.NResult.RaiseError(Int32 error)
+   at Neurotec.NResult.Check(Int32 result)
+   at Neurotec.Licensing.NLicense.ObtainComponents(String address, String port, String components)
+   at VisualSoft.Biomatric.Identification.Services.BiometricClusterConnector.ConnectAsync(IConfiguration config, ILogger`1 logger) in C:\Users\VisualSoft\source\repos\VisualSoft.Biomatric.Identification.API\VisualSoft.Biomatric.Identification.Services\BiometricClusterConnector.cs:line 56
+2025-12-22 11:55:39.213 +05:00 [INF] === Starting Biometric Identification API ===
+2025-12-22 11:55:39.439 +05:00 [INF] Registering BiometricService as Singleton...
+2025-12-22 11:55:39.713 +05:00 [INF] Swagger UI enabled at root URL
+2025-12-22 11:55:39.992 +05:00 [INF] API is ready to accept requests
+2025-12-22 11:55:39.995 +05:00 [INF] Swagger UI: https://localhost:7145
+2025-12-22 11:55:46.710 +05:00 [INF] HTTP GET /swagger/logo.png responded 404 in 10.1940 ms
+2025-12-22 11:56:24.095 +05:00 [INF] Initializing BiometricClusterConnector...
+2025-12-22 11:56:24.184 +05:00 [INF] === Initializing Biometric Cluster Connector ===
+2025-12-22 11:56:24.196 +05:00 [INF] Cluster Server: 192.168.18.142:25452/24932
+2025-12-22 11:56:24.198 +05:00 [INF] License Server: 192.168.18.142:5000
+2025-12-22 11:56:24.200 +05:00 [INF] Obtaining Neurotec licenses...
+2025-12-22 11:56:26.055 +05:00 [INF] All licenses obtained successfully
+2025-12-22 11:56:26.447 +05:00 [INF] Initializing connection to cluster...
+2025-12-22 11:56:26.551 +05:00 [INF]  Successfully connected to Biometric Cluster
+2025-12-22 11:56:26.553 +05:00 [INF] === Biometric Service Ready ===
+2025-12-22 11:56:26.555 +05:00 [INF] BiometricClusterConnector initialized successfully
+2025-12-22 11:56:26.683 +05:00 [INF] Starting identification for file: C:\Users\VisualSoft\AppData\Local\Temp\f2ae52a7-fb05-4fea-b9fd-63d48095b238.wsq
+2025-12-22 11:58:13.911 +05:00 [INF]  Match found - Best: 186_11_845 (Score: 2097), Total Matches: 1, Duration: 107227.5447ms
+2025-12-22 11:58:14.004 +05:00 [INF] HTTP POST /api/Identification/identify responded 200 in 109962.7951 ms
+2025-12-22 11:59:56.174 +05:00 [INF] Starting identification for file: C:\Users\VisualSoft\AppData\Local\Temp\20fcce98-0854-4dac-96f1-0c6086f47e24.wsq
+2025-12-22 12:01:46.993 +05:00 [INF]  Match found - Best: 186_11_841 (Score: 2156), Total Matches: 1, Duration: 110818.6655ms
+2025-12-22 12:01:47.010 +05:00 [INF] HTTP POST /api/Identification/identify responded 200 in 110881.0433 ms
+2025-12-22 12:13:06.846 +05:00 [INF] Starting identification for file: C:\Users\VisualSoft\AppData\Local\Temp\a59ea26a-1144-493a-9290-805b07cb85fc.wsq
+2025-12-22 12:14:55.294 +05:00 [INF]  Match found - Best: 186_11_845 (Score: 2097), Total Matches: 1, Duration: 108447.9513ms
+2025-12-22 12:14:55.305 +05:00 [INF] HTTP POST /api/Identification/identify responded 200 in 108475.2674 ms
+2025-12-22 13:16:49.091 +05:00 [INF] Starting identification for file: C:\Users\VisualSoft\AppData\Local\Temp\52716db3-5fe9-4ff3-a89b-b786b57cdef4.wsq
+2025-12-22 13:16:49.222 +05:00 [ERR] Error during identification for file: C:\Users\VisualSoft\AppData\Local\Temp\52716db3-5fe9-4ff3-a89b-b786b57cdef4.wsq
+Neurotec.NotActivatedException: Component could not be synchronized
+   at Neurotec.NResult.RaiseError(Int32 error)
+   at Neurotec.NResult.Check(Int32 result)
+   at Neurotec.Images.NImage.FromFile(String fileName, NImageFormat imageFormat, UInt32 flags)
+   at Neurotec.Images.NImage.FromFile(String fileName)
+   at VisualSoft.Biomatric.Identification.Services.BiometricClusterConnector.IdentifyAsync(String wsqFilePath) in C:\Users\VisualSoft\source\repos\VisualSoft.Biomatric.Identification.API\VisualSoft.Biomatric.Identification.Services\BiometricClusterConnector.cs:line 129
+2025-12-22 13:16:49.239 +05:00 [INF] HTTP POST /api/Identification/identify responded 200 in 152.2596 ms
+2025-12-22 13:16:54.430 +05:00 [INF] Starting identification for file: C:\Users\VisualSoft\AppData\Local\Temp\79d1fe85-8d1f-4fbb-9a7f-84daed81254d.wsq
+2025-12-22 13:16:54.475 +05:00 [ERR] Error during identification for file: C:\Users\VisualSoft\AppData\Local\Temp\79d1fe85-8d1f-4fbb-9a7f-84daed81254d.wsq
+Neurotec.NotActivatedException: Component could not be synchronized
+   at Neurotec.NResult.RaiseError(Int32 error)
+   at Neurotec.NResult.Check(Int32 result)
+   at Neurotec.Images.NImage.FromFile(String fileName, NImageFormat imageFormat, UInt32 flags)
+   at Neurotec.Images.NImage.FromFile(String fileName)
+   at VisualSoft.Biomatric.Identification.Services.BiometricClusterConnector.IdentifyAsync(String wsqFilePath) in C:\Users\VisualSoft\source\repos\VisualSoft.Biomatric.Identification.API\VisualSoft.Biomatric.Identification.Services\BiometricClusterConnector.cs:line 129
+2025-12-22 13:16:54.482 +05:00 [INF] HTTP POST /api/Identification/identify responded 200 in 55.7526 ms
+2025-12-22 13:17:28.188 +05:00 [INF] Starting identification for file: C:\Users\VisualSoft\AppData\Local\Temp\61a5a839-ea82-4fda-83f1-fd9769043ee9.wsq
+2025-12-22 13:17:28.237 +05:00 [ERR] Error during identification for file: C:\Users\VisualSoft\AppData\Local\Temp\61a5a839-ea82-4fda-83f1-fd9769043ee9.wsq
+Neurotec.NotActivatedException: Component could not be synchronized
+   at Neurotec.NResult.RaiseError(Int32 error)
+   at Neurotec.NResult.Check(Int32 result)
+   at Neurotec.Images.NImage.FromFile(String fileName, NImageFormat imageFormat, UInt32 flags)
+   at Neurotec.Images.NImage.FromFile(String fileName)
+   at VisualSoft.Biomatric.Identification.Services.BiometricClusterConnector.IdentifyAsync(String wsqFilePath) in C:\Users\VisualSoft\source\repos\VisualSoft.Biomatric.Identification.API\VisualSoft.Biomatric.Identification.Services\BiometricClusterConnector.cs:line 129
+2025-12-22 13:17:28.243 +05:00 [INF] HTTP POST /api/Identification/identify responded 200 in 60.6320 ms
+2025-12-22 13:17:50.845 +05:00 [INF] Starting identification for file: C:\Users\VisualSoft\AppData\Local\Temp\d645a4e4-63a0-4dd0-a9c5-064f1b1f104d.wsq
+2025-12-22 13:17:50.891 +05:00 [ERR] Error during identification for file: C:\Users\VisualSoft\AppData\Local\Temp\d645a4e4-63a0-4dd0-a9c5-064f1b1f104d.wsq
+Neurotec.NotActivatedException: Component could not be synchronized
+   at Neurotec.NResult.RaiseError(Int32 error)
+   at Neurotec.NResult.Check(Int32 result)
+   at Neurotec.Images.NImage.FromFile(String fileName, NImageFormat imageFormat, UInt32 flags)
+   at Neurotec.Images.NImage.FromFile(String fileName)
+   at VisualSoft.Biomatric.Identification.Services.BiometricClusterConnector.IdentifyAsync(String wsqFilePath) in C:\Users\VisualSoft\source\repos\VisualSoft.Biomatric.Identification.API\VisualSoft.Biomatric.Identification.Services\BiometricClusterConnector.cs:line 129
+2025-12-22 13:17:50.899 +05:00 [INF] HTTP POST /api/Identification/identify responded 200 in 151.0527 ms
+2025-12-22 14:11:10.548 +05:00 [INF] === Starting Biometric Identification API ===
+2025-12-22 14:11:10.979 +05:00 [INF] Registering BiometricService as Singleton...
+2025-12-22 14:11:11.253 +05:00 [INF] Swagger UI enabled at root URL
+2025-12-22 14:11:11.541 +05:00 [INF] API is ready to accept requests
+2025-12-22 14:11:11.549 +05:00 [INF] Swagger UI: https://localhost:7145
+2025-12-22 14:11:20.390 +05:00 [INF] HTTP GET /swagger/logo.png responded 404 in 11.8000 ms
+2025-12-22 14:11:59.424 +05:00 [INF] Initializing BiometricClusterConnector...
+2025-12-22 14:11:59.538 +05:00 [INF] === Initializing Biometric Cluster Connector ===
+2025-12-22 14:11:59.549 +05:00 [INF] Cluster Server: 192.168.18.142:25452/24932
+2025-12-22 14:11:59.551 +05:00 [INF] License Server: 192.168.18.142:5000
+2025-12-22 14:11:59.556 +05:00 [INF] Obtaining Neurotec licenses...
+2025-12-22 14:12:00.014 +05:00 [INF] All licenses obtained successfully
+2025-12-22 14:12:00.391 +05:00 [INF] Initializing connection to cluster...
+2025-12-22 14:12:00.495 +05:00 [INF]  Successfully connected to Biometric Cluster
+2025-12-22 14:12:00.497 +05:00 [INF] === Biometric Service Ready ===
+2025-12-22 14:12:00.501 +05:00 [INF] BiometricClusterConnector initialized successfully
+2025-12-22 14:12:00.676 +05:00 [INF] Starting identification for file: C:\Users\VisualSoft\AppData\Local\Temp\07c137fb-6eb6-434b-9e22-d0805bbcd14b.wsq
+2025-12-22 14:15:20.502 +05:00 [INF]  Match found - Best: 186_11_841 (Score: 2156), Total Matches: 1, Duration: 199825.4508ms
+2025-12-22 14:15:20.663 +05:00 [INF] HTTP POST /api/Identification/identify responded 200 in 201311.0507 ms
+2025-12-22 14:16:10.105 +05:00 [INF] Starting identification for file: C:\Users\VisualSoft\AppData\Local\Temp\1a5c2ea2-3283-46d2-ab81-dcb2a6d5aa1e.wsq
+2025-12-22 14:17:54.378 +05:00 [INF]  Match found - Best: 186_11_845 (Score: 2097), Total Matches: 1, Duration: 104272.4404ms
+2025-12-22 14:17:54.390 +05:00 [INF] HTTP POST /api/Identification/identify responded 200 in 104287.6741 ms
+2025-12-22 14:19:43.045 +05:00 [INF] Starting identification for file: C:\Users\VisualSoft\AppData\Local\Temp\15be175d-2347-4020-a393-45b5ff16b6ac.wsq
+2025-12-22 14:21:54.841 +05:00 [INF]  Match found - Best: 186_11_849 (Score: 2530), Total Matches: 1, Duration: 131796.06ms
+2025-12-22 14:21:54.852 +05:00 [INF] HTTP POST /api/Identification/identify responded 200 in 131812.1402 ms
+2025-12-22 14:24:39.381 +05:00 [INF] Starting identification for file: C:\Users\VisualSoft\AppData\Local\Temp\9629c545-7ce0-4c17-8cc5-91a55c13b2d5.wsq
+2025-12-22 14:24:41.133 +05:00 [WRN] Template extraction failed with status: "BadObject"
+2025-12-22 14:24:41.143 +05:00 [INF] HTTP POST /api/Identification/identify responded 200 in 1810.1688 ms
+2025-12-22 14:25:11.084 +05:00 [INF] Starting identification for file: C:\Users\VisualSoft\AppData\Local\Temp\510a6f3f-ba99-4c10-baa4-c3bd16b390e0.wsq
+2025-12-22 14:26:33.085 +05:00 [INF]  Match found - Best: 186_14_1165 (Score: 1638), Total Matches: 2, Duration: 82000.863ms
+2025-12-22 14:26:33.097 +05:00 [INF] HTTP POST /api/Identification/identify responded 200 in 82088.1476 ms
+2025-12-22 14:27:23.965 +05:00 [INF] Starting identification for file: C:\Users\VisualSoft\AppData\Local\Temp\81a55c83-c379-45a9-80b4-55a1787d5e1d.wsq
+2025-12-22 14:29:00.620 +05:00 [INF]  Match found - Best: 186_14_1169 (Score: 1891), Total Matches: 2, Duration: 96655.4608ms
+2025-12-22 14:29:00.629 +05:00 [INF] HTTP POST /api/Identification/identify responded 200 in 96694.8095 ms
+2025-12-22 14:51:32.997 +05:00 [INF] HTTP POST /api/Identification/identify responded 400 in 70.3050 ms
+2025-12-22 15:11:16.997 +05:00 [INF] Starting identification for file: C:\Users\VisualSoft\AppData\Local\Temp\0f2b1077-61e6-4d5c-b9ee-83b36b977547.wsq
+2025-12-22 15:13:50.870 +05:00 [INF]  Match found - Best: 186_14_1165 (Score: 1638), Total Matches: 2, Duration: 153873.988ms
+2025-12-22 15:13:50.882 +05:00 [INF] HTTP POST /api/Identification/identify responded 200 in 153889.1264 ms
+2025-12-22 15:16:09.503 +05:00 [INF] Starting identification for file: C:\Users\VisualSoft\AppData\Local\Temp\851b1a71-4787-40ef-b654-4f7191f98695.wsq
+2025-12-22 15:18:32.305 +05:00 [INF] Starting identification for file: C:\Users\VisualSoft\AppData\Local\Temp\eb890553-4459-4558-ae9c-afe41578c135.wsq
+2025-12-22 15:19:18.208 +05:00 [INF] Starting identification for file: C:\Users\VisualSoft\AppData\Local\Temp\16f9dd59-234d-414f-aa66-47736d9af740.wsq
+2025-12-22 15:19:20.270 +05:00 [WRN] Template extraction failed with status: "BadObject"
+2025-12-22 15:19:20.274 +05:00 [INF] HTTP POST /api/Identification/identify responded 200 in 2102.0573 ms
+2025-12-22 15:19:57.360 +05:00 [INF] Starting identification for file: C:\Users\VisualSoft\AppData\Local\Temp\1dd6bfeb-a291-4774-886d-9aa231e1b09d.wsq
+2025-12-22 15:19:58.979 +05:00 [WRN] Template extraction failed with status: "BadObject"
+2025-12-22 15:19:58.983 +05:00 [INF] HTTP POST /api/Identification/identify responded 200 in 1693.0255 ms
+2025-12-22 15:20:46.091 +05:00 [INF]  Match found - Best: 186_11_846 (Score: 1677), Total Matches: 1, Duration: 276587.5762ms
+2025-12-22 15:20:46.100 +05:00 [INF] HTTP POST /api/Identification/identify responded 200 in 276600.9934 ms
+2025-12-22 15:21:29.607 +05:00 [INF] Starting identification for file: C:\Users\VisualSoft\AppData\Local\Temp\fcd0884d-9854-4dc5-8c2c-2a2ac5d22349.wsq
+2025-12-22 15:22:00.070 +05:00 [INF]  Match found - Best: 186_11_843 (Score: 1793), Total Matches: 1, Duration: 207764.7999ms
+2025-12-22 15:22:00.080 +05:00 [INF] HTTP POST /api/Identification/identify responded 200 in 207842.2494 ms
+2025-12-22 15:23:26.307 +05:00 [INF]  Match found - Best: 80_46_2910 (Score: 1468), Total Matches: 1, Duration: 116700.8765ms
+2025-12-22 15:23:26.314 +05:00 [INF] HTTP POST /api/Identification/identify responded 200 in 116762.0851 ms
+2025-12-22 15:25:28.121 +05:00 [INF] Starting identification for file: C:\Users\VisualSoft\AppData\Local\Temp\717686ae-55b2-4a7e-bfd8-d9d40ed0adb8.wsq
+2025-12-22 15:25:31.321 +05:00 [INF] Starting identification for file: C:\Users\VisualSoft\AppData\Local\Temp\ac46efa1-b424-4891-a298-7ebfd88864b4.wsq
+2025-12-22 15:25:34.950 +05:00 [INF] Starting identification for file: C:\Users\VisualSoft\AppData\Local\Temp\cc744d93-f657-4f68-80d5-8c2a509ec391.wsq
+2025-12-22 15:29:44.217 +05:00 [INF]  Match found - Best: 186_11_846 (Score: 1677), Total Matches: 1, Duration: 256095.5147ms
+2025-12-22 15:29:44.223 +05:00 [INF]  Match found - Best: 80_46_2910 (Score: 1468), Total Matches: 1, Duration: 249272.7971ms
+2025-12-22 15:29:44.243 +05:00 [INF] HTTP POST /api/Identification/identify responded 200 in 256132.9160 ms
+2025-12-22 15:29:44.270 +05:00 [INF] HTTP POST /api/Identification/identify responded 200 in 249324.6440 ms
+2025-12-22 15:29:50.258 +05:00 [INF]  Match found - Best: 186_11_843 (Score: 1793), Total Matches: 1, Duration: 258936.9283ms
+2025-12-22 15:29:50.262 +05:00 [INF] HTTP POST /api/Identification/identify responded 200 in 258945.5295 ms
+2025-12-22 15:29:59.547 +05:00 [INF] Starting identification for file: C:\Users\VisualSoft\AppData\Local\Temp\39e670dc-640a-4c38-a470-758f60d30a93.wsq
+2025-12-22 15:30:03.387 +05:00 [INF] Starting identification for file: C:\Users\VisualSoft\AppData\Local\Temp\f2581ec4-274a-456b-9115-db6013b16bf8.wsq
+2025-12-22 15:30:07.093 +05:00 [INF] Starting identification for file: C:\Users\VisualSoft\AppData\Local\Temp\663cd695-b33b-4123-9d12-3d9596a650f2.wsq
+2025-12-22 15:34:25.419 +05:00 [INF]  Match found - Best: 80_46_2910 (Score: 1468), Total Matches: 1, Duration: 265872.3629ms
+2025-12-22 15:34:25.425 +05:00 [INF] HTTP POST /api/Identification/identify responded 200 in 265886.0914 ms
+2025-12-22 15:35:51.341 +05:00 [INF]  Match found - Best: 186_11_846 (Score: 1677), Total Matches: 1, Duration: 344248.2504ms
+2025-12-22 15:35:51.350 +05:00 [INF] HTTP POST /api/Identification/identify responded 200 in 344261.2238 ms
+2025-12-22 15:35:51.358 +05:00 [INF]  Match found - Best: 186_11_843 (Score: 1793), Total Matches: 1, Duration: 347973.0308ms
+2025-12-22 15:35:51.367 +05:00 [INF] HTTP POST /api/Identification/identify responded 200 in 347993.3576 ms
+2025-12-22 15:36:06.294 +05:00 [INF] Starting identification for file: C:\Users\VisualSoft\AppData\Local\Temp\8c3b45eb-53f0-4db6-b233-d16b9ac51307.wsq
+2025-12-22 15:37:41.308 +05:00 [INF]  Match found - Best: 80_46_2906 (Score: 1704), Total Matches: 1, Duration: 95014.4414ms
+2025-12-22 15:37:41.315 +05:00 [INF] HTTP POST /api/Identification/identify responded 200 in 95027.2948 ms
+2025-12-22 17:13:25.118 +05:00 [INF] Starting identification for file: C:\Users\VisualSoft\AppData\Local\Temp\850c6178-bb96-4cb4-8ad3-9a6bf7cf39cf.wsq
+2025-12-22 17:13:25.222 +05:00 [ERR] Error during identification for file: C:\Users\VisualSoft\AppData\Local\Temp\850c6178-bb96-4cb4-8ad3-9a6bf7cf39cf.wsq
+Neurotec.NotActivatedException: Component could not be synchronized
+   at Neurotec.NResult.RaiseError(Int32 error)
+   at Neurotec.NResult.Check(Int32 result)
+   at Neurotec.Images.NImage.FromFile(String fileName, NImageFormat imageFormat, UInt32 flags)
+   at Neurotec.Images.NImage.FromFile(String fileName)
+   at VisualSoft.Biomatric.Identification.Services.BiometricClusterConnector.IdentifyAsync(String wsqFilePath) in C:\Users\VisualSoft\source\repos\VisualSoft.Biomatric.Identification.API\VisualSoft.Biomatric.Identification.Services\BiometricClusterConnector.cs:line 129
+2025-12-22 17:13:25.248 +05:00 [INF] HTTP POST /api/Identification/identify responded 200 in 145.4496 ms
+2025-12-22 17:13:32.485 +05:00 [INF] Starting identification for file: C:\Users\VisualSoft\AppData\Local\Temp\10592448-9b5c-4f5e-a5c5-bce17c53d1c5.wsq
+2025-12-22 17:13:32.542 +05:00 [ERR] Error during identification for file: C:\Users\VisualSoft\AppData\Local\Temp\10592448-9b5c-4f5e-a5c5-bce17c53d1c5.wsq
+Neurotec.NotActivatedException: Component could not be synchronized
+   at Neurotec.NResult.RaiseError(Int32 error)
+   at Neurotec.NResult.Check(Int32 result)
+   at Neurotec.Images.NImage.FromFile(String fileName, NImageFormat imageFormat, UInt32 flags)
+   at Neurotec.Images.NImage.FromFile(String fileName)
+   at VisualSoft.Biomatric.Identification.Services.BiometricClusterConnector.IdentifyAsync(String wsqFilePath) in C:\Users\VisualSoft\source\repos\VisualSoft.Biomatric.Identification.API\VisualSoft.Biomatric.Identification.Services\BiometricClusterConnector.cs:line 129
+2025-12-22 17:13:32.547 +05:00 [INF] HTTP POST /api/Identification/identify responded 200 in 69.2928 ms
+2025-12-22 17:24:11.499 +05:00 [INF] Starting identification for file: C:\Users\VisualSoft\AppData\Local\Temp\62dd742a-1f98-43f8-9a95-c0fd01e0bbe6.wsq
+2025-12-22 17:24:11.544 +05:00 [ERR] Error during identification for file: C:\Users\VisualSoft\AppData\Local\Temp\62dd742a-1f98-43f8-9a95-c0fd01e0bbe6.wsq
+Neurotec.NotActivatedException: Component could not be synchronized
+   at Neurotec.NResult.RaiseError(Int32 error)
+   at Neurotec.NResult.Check(Int32 result)
+   at Neurotec.Images.NImage.FromFile(String fileName, NImageFormat imageFormat, UInt32 flags)
+   at Neurotec.Images.NImage.FromFile(String fileName)
+   at VisualSoft.Biomatric.Identification.Services.BiometricClusterConnector.IdentifyAsync(String wsqFilePath) in C:\Users\VisualSoft\source\repos\VisualSoft.Biomatric.Identification.API\VisualSoft.Biomatric.Identification.Services\BiometricClusterConnector.cs:line 129
+2025-12-22 17:24:11.553 +05:00 [INF] HTTP POST /api/Identification/identify responded 200 in 60.0049 ms
+2025-12-22 17:27:00.932 +05:00 [INF] Starting identification for file: C:\Users\VisualSoft\AppData\Local\Temp\45684a57-a5be-4fda-91d9-44536fbe682c.wsq
+2025-12-22 17:27:00.978 +05:00 [ERR] Error during identification for file: C:\Users\VisualSoft\AppData\Local\Temp\45684a57-a5be-4fda-91d9-44536fbe682c.wsq
+Neurotec.NotActivatedException: Component could not be synchronized
+   at Neurotec.NResult.RaiseError(Int32 error)
+   at Neurotec.NResult.Check(Int32 result)
+   at Neurotec.Images.NImage.FromFile(String fileName, NImageFormat imageFormat, UInt32 flags)
+   at Neurotec.Images.NImage.FromFile(String fileName)
+   at VisualSoft.Biomatric.Identification.Services.BiometricClusterConnector.IdentifyAsync(String wsqFilePath) in C:\Users\VisualSoft\source\repos\VisualSoft.Biomatric.Identification.API\VisualSoft.Biomatric.Identification.Services\BiometricClusterConnector.cs:line 129
+2025-12-22 17:27:00.985 +05:00 [INF] HTTP POST /api/Identification/identify responded 200 in 55.9947 ms
+2025-12-22 17:29:13.626 +05:00 [INF] Starting identification for file: C:\Users\VisualSoft\AppData\Local\Temp\6f0e0611-8b6f-462a-83f4-2a94f2179b95.wsq
+2025-12-22 17:29:13.676 +05:00 [ERR] Error during identification for file: C:\Users\VisualSoft\AppData\Local\Temp\6f0e0611-8b6f-462a-83f4-2a94f2179b95.wsq
+Neurotec.NotActivatedException: Component could not be synchronized
+   at Neurotec.NResult.RaiseError(Int32 error)
+   at Neurotec.NResult.Check(Int32 result)
+   at Neurotec.Images.NImage.FromFile(String fileName, NImageFormat imageFormat, UInt32 flags)
+   at Neurotec.Images.NImage.FromFile(String fileName)
+   at VisualSoft.Biomatric.Identification.Services.BiometricClusterConnector.IdentifyAsync(String wsqFilePath) in C:\Users\VisualSoft\source\repos\VisualSoft.Biomatric.Identification.API\VisualSoft.Biomatric.Identification.Services\BiometricClusterConnector.cs:line 129
+2025-12-22 17:29:13.683 +05:00 [INF] HTTP POST /api/Identification/identify responded 200 in 61.8224 ms
+2025-12-22 17:32:44.407 +05:00 [INF] Starting identification for file: C:\Users\VisualSoft\AppData\Local\Temp\06dbf173-3063-4bce-9dbc-d5d807ee815d.wsq
+2025-12-22 17:32:44.454 +05:00 [ERR] Error during identification for file: C:\Users\VisualSoft\AppData\Local\Temp\06dbf173-3063-4bce-9dbc-d5d807ee815d.wsq
+Neurotec.NotActivatedException: Component could not be synchronized
+   at Neurotec.NResult.RaiseError(Int32 error)
+   at Neurotec.NResult.Check(Int32 result)
+   at Neurotec.Images.NImage.FromFile(String fileName, NImageFormat imageFormat, UInt32 flags)
+   at Neurotec.Images.NImage.FromFile(String fileName)
+   at VisualSoft.Biomatric.Identification.Services.BiometricClusterConnector.IdentifyAsync(String wsqFilePath) in C:\Users\VisualSoft\source\repos\VisualSoft.Biomatric.Identification.API\VisualSoft.Biomatric.Identification.Services\BiometricClusterConnector.cs:line 129
+2025-12-22 17:32:44.463 +05:00 [INF] HTTP POST /api/Identification/identify responded 200 in 83.5941 ms
+2025-12-22 17:35:23.373 +05:00 [INF] Starting identification for file: C:\Users\VisualSoft\AppData\Local\Temp\36de0b74-b4bc-48da-8dae-374ece6ad903.wsq
+2025-12-22 17:35:23.413 +05:00 [ERR] Error during identification for file: C:\Users\VisualSoft\AppData\Local\Temp\36de0b74-b4bc-48da-8dae-374ece6ad903.wsq
+Neurotec.NotActivatedException: Component could not be synchronized
+   at Neurotec.NResult.RaiseError(Int32 error)
+   at Neurotec.NResult.Check(Int32 result)
+   at Neurotec.Images.NImage.FromFile(String fileName, NImageFormat imageFormat, UInt32 flags)
+   at Neurotec.Images.NImage.FromFile(String fileName)
+   at VisualSoft.Biomatric.Identification.Services.BiometricClusterConnector.IdentifyAsync(String wsqFilePath) in C:\Users\VisualSoft\source\repos\VisualSoft.Biomatric.Identification.API\VisualSoft.Biomatric.Identification.Services\BiometricClusterConnector.cs:line 129
+2025-12-22 17:35:23.422 +05:00 [INF] HTTP POST /api/Identification/identify responded 200 in 54.0358 ms
+2025-12-22 17:39:04.158 +05:00 [INF] === Starting Biometric Identification API ===
+2025-12-22 17:39:04.439 +05:00 [INF] Registering BiometricService as Singleton...
+2025-12-22 17:39:04.652 +05:00 [INF] Swagger UI enabled at root URL
+2025-12-22 17:39:04.895 +05:00 [INF] API is ready to accept requests
+2025-12-22 17:39:04.899 +05:00 [INF] Swagger UI: https://localhost:7145
+2025-12-22 17:39:13.477 +05:00 [INF] HTTP GET /swagger/logo.png responded 404 in 7.2287 ms
+2025-12-22 17:39:51.585 +05:00 [INF] Initializing BiometricClusterConnector...
+2025-12-22 17:39:51.708 +05:00 [INF] === Initializing Biometric Cluster Connector ===
+2025-12-22 17:39:51.719 +05:00 [INF] Cluster Server: 192.168.18.142:25452/24932
+2025-12-22 17:39:51.726 +05:00 [INF] License Server: 192.168.18.142:5000
+2025-12-22 17:39:51.728 +05:00 [INF] Obtaining Neurotec licenses...
+2025-12-22 17:39:53.625 +05:00 [INF] All licenses obtained successfully
+2025-12-22 17:39:53.827 +05:00 [INF] Initializing connection to cluster...
+2025-12-22 17:39:53.957 +05:00 [INF]  Successfully connected to Biometric Cluster
+2025-12-22 17:39:53.959 +05:00 [INF] === Biometric Service Ready ===
+2025-12-22 17:39:53.960 +05:00 [INF] BiometricClusterConnector initialized successfully
+2025-12-22 17:39:54.072 +05:00 [INF] Starting identification for file: C:\Users\VisualSoft\AppData\Local\Temp\f6180f8a-e092-481f-8eea-a0b2bd939143.wsq
+2025-12-22 17:39:57.179 +05:00 [INF]  Match found - Best: 80_42_2045 (Score: 2086), Total Matches: 1, Duration: 3107.2115ms
+2025-12-22 17:39:57.235 +05:00 [INF] HTTP POST /api/Identification/identify responded 200 in 5704.2310 ms
+2025-12-22 17:40:57.077 +05:00 [INF] Starting identification for file: C:\Users\VisualSoft\AppData\Local\Temp\2e26d3cd-3d06-4ef6-ae10-298d0f76dfe4.wsq
+2025-12-22 17:40:58.774 +05:00 [INF]  Match found - Best: 80_65_7215 (Score: 1677), Total Matches: 1, Duration: 1696.4893ms
+2025-12-22 17:40:58.780 +05:00 [INF] HTTP POST /api/Identification/identify responded 200 in 1771.0062 ms
+2025-12-22 17:46:01.061 +05:00 [INF] Starting identification for file: C:\Users\VisualSoft\AppData\Local\Temp\2ab43962-0744-4e84-9bfa-d0a027ee5901.wsq
+2025-12-22 17:46:02.774 +05:00 [INF]  Match found - Best: 80_115_19531 (Score: 2246), Total Matches: 1, Duration: 1713.395ms
+2025-12-22 17:46:02.778 +05:00 [INF] HTTP POST /api/Identification/identify responded 200 in 1741.0686 ms
+2025-12-22 17:48:42.389 +05:00 [INF] Starting identification for file: C:\Users\VisualSoft\AppData\Local\Temp\f33cddf6-9c5f-49d2-b5e7-04725968020f.wsq
+2025-12-22 17:48:44.108 +05:00 [INF]  Match found - Best: 80_115_19537 (Score: 1898), Total Matches: 1, Duration: 1718.4195ms
+2025-12-22 17:48:44.114 +05:00 [INF] HTTP POST /api/Identification/identify responded 200 in 1728.9379 ms
+2025-12-22 17:54:50.262 +05:00 [INF] Starting identification for file: C:\Users\VisualSoft\AppData\Local\Temp\ced5d864-8c28-4cb9-aece-37ee9353704b.wsq
+2025-12-22 17:54:51.708 +05:00 [INF]  No match found - Status: "MatchNotFound", Duration: 1445.1287ms
+2025-12-22 17:54:51.713 +05:00 [INF] HTTP POST /api/Identification/identify responded 200 in 1484.9660 ms
+2025-12-22 17:56:49.316 +05:00 [INF] Starting identification for file: C:\Users\VisualSoft\AppData\Local\Temp\c85a24ad-b2af-45ec-90be-5ad2fc660b6d.wsq
+2025-12-22 17:56:50.497 +05:00 [INF]  No match found - Status: "MatchNotFound", Duration: 1181.1913ms
+2025-12-22 17:56:50.505 +05:00 [INF] HTTP POST /api/Identification/identify responded 200 in 1235.5066 ms
+2025-12-22 17:57:42.868 +05:00 [INF] Starting identification for file: C:\Users\VisualSoft\AppData\Local\Temp\9b7897ca-be71-4ddd-ae2b-211a5b74491f.wsq
+2025-12-22 17:57:45.048 +05:00 [INF]  Match found - Best: 186_63_351 (Score: 2086), Total Matches: 1, Duration: 2180.0135ms
+2025-12-22 17:57:45.052 +05:00 [INF] HTTP POST /api/Identification/identify responded 200 in 2197.6670 ms
+2025-12-22 17:58:32.909 +05:00 [INF] Starting identification for file: C:\Users\VisualSoft\AppData\Local\Temp\a5a03c62-233e-4ff3-8745-b0bf8fe5715b.wsq
+2025-12-22 17:58:35.228 +05:00 [INF]  Match found - Best: 186_63_359 (Score: 2479), Total Matches: 1, Duration: 2318.672ms
+2025-12-22 17:58:35.232 +05:00 [INF] HTTP POST /api/Identification/identify responded 200 in 2327.8491 ms
+2025-12-22 17:59:39.952 +05:00 [INF] Starting identification for file: C:\Users\VisualSoft\AppData\Local\Temp\82e58d4c-67e3-48bf-b32e-102689595abc.wsq
+2025-12-22 17:59:41.649 +05:00 [INF]  Match found - Best: 186_169_1361 (Score: 1791), Total Matches: 2, Duration: 1697.2477ms
+2025-12-22 17:59:41.659 +05:00 [INF] HTTP POST /api/Identification/identify responded 200 in 1713.0010 ms

@@ -1,0 +1,6 @@
+@VisualSoft.Biomatric.Identification.API_HostAddress = http://localhost:5085
+
+GET {{VisualSoft.Biomatric.Identification.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

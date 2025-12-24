@@ -1,0 +1,74 @@
+2025-12-19 15:50:14.634 +05:00 [INF] === Starting Biometric Identification API ===
+2025-12-19 15:50:15.406 +05:00 [INF] Registering BiometricService as Singleton...
+2025-12-19 15:50:15.887 +05:00 [INF] Swagger UI enabled at root URL
+2025-12-19 15:50:16.269 +05:00 [INF] API is ready to accept requests
+2025-12-19 15:50:16.277 +05:00 [INF] Swagger UI: https://localhost:7145
+2025-12-19 15:50:33.956 +05:00 [INF] HTTP GET /swagger/logo.png responded 404 in 8.7510 ms
+2025-12-19 15:50:56.683 +05:00 [INF] Initializing BiometricClusterConnector...
+2025-12-19 15:50:56.818 +05:00 [INF] === Initializing Biometric Cluster Connector ===
+2025-12-19 15:50:56.835 +05:00 [INF] Cluster Server: 192.168.18.142:25452/24932
+2025-12-19 15:50:56.841 +05:00 [INF] License Server: 192.168.18.142:5000
+2025-12-19 15:50:56.845 +05:00 [INF] Obtaining Neurotec licenses...
+2025-12-19 15:50:57.311 +05:00 [INF] All licenses obtained successfully
+2025-12-19 15:50:57.641 +05:00 [INF] Initializing connection to cluster...
+2025-12-19 15:50:57.891 +05:00 [INF]  Successfully connected to Biometric Cluster
+2025-12-19 15:50:57.895 +05:00 [INF] === Biometric Service Ready ===
+2025-12-19 15:50:57.900 +05:00 [INF] BiometricClusterConnector initialized successfully
+2025-12-19 15:50:58.053 +05:00 [INF] Starting identification for file: C:\Users\VisualSoft\AppData\Local\Temp\e0aede38-93ac-4d15-962d-1a60d5d5ce7d.wsq
+2025-12-19 15:52:39.032 +05:00 [INF]  Match found - Best: 44_1394 (Score: 2169), Total Matches: 1, Duration: 100979.0229ms
+2025-12-19 15:52:39.148 +05:00 [INF] HTTP POST /api/Identification/identify responded 200 in 102576.4667 ms
+2025-12-19 15:58:31.441 +05:00 [INF] Starting identification for file: C:\Users\VisualSoft\AppData\Local\Temp\5b7b8032-30eb-403d-bf60-9ebc3fca636e.wsq
+2025-12-19 16:01:12.356 +05:00 [INF]  Match found - Best: 44_3426 (Score: 1831), Total Matches: 1, Duration: 160914.5769ms
+2025-12-19 16:01:12.364 +05:00 [INF] HTTP POST /api/Identification/identify responded 200 in 160934.4920 ms
+2025-12-19 16:02:33.740 +05:00 [INF] Starting identification for file: C:\Users\VisualSoft\AppData\Local\Temp\8d87b333-1e67-4339-a122-7a8a2ea11556.wsq
+2025-12-19 16:02:34.080 +05:00 [ERR] Error during identification for file: C:\Users\VisualSoft\AppData\Local\Temp\8d87b333-1e67-4339-a122-7a8a2ea11556.wsq
+Neurotec.NNotSupportedException: One of WSQ image dimensions is too small
+   at NMedia.dll+0x10BED0
+   --- End of unmanaged stack trace ---
+   at Neurotec.NResult.RaiseError(Int32 error)
+   at Neurotec.NResult.Check(Int32 result)
+   at Neurotec.Images.NImage.FromFile(String fileName, NImageFormat imageFormat, UInt32 flags)
+   at Neurotec.Images.NImage.FromFile(String fileName)
+   at VisualSoft.Biomatric.Identification.Services.BiometricClusterConnector.IdentifyAsync(String wsqFilePath) in C:\Users\VisualSoft\source\repos\VisualSoft.Biomatric.Identification.API\VisualSoft.Biomatric.Identification.Services\BiometricClusterConnector.cs:line 129
+2025-12-19 16:02:34.132 +05:00 [INF] HTTP POST /api/Identification/identify responded 200 in 395.1518 ms
+2025-12-19 16:03:05.849 +05:00 [INF] Starting identification for file: C:\Users\VisualSoft\AppData\Local\Temp\24c5cc4e-f5b1-4f9e-9ef9-57b61d422c2e.wsq
+2025-12-19 16:03:05.956 +05:00 [ERR] Error during identification for file: C:\Users\VisualSoft\AppData\Local\Temp\24c5cc4e-f5b1-4f9e-9ef9-57b61d422c2e.wsq
+Neurotec.NNotSupportedException: One of WSQ image dimensions is too small
+   at NMedia.dll+0x10BED0
+   --- End of unmanaged stack trace ---
+   at Neurotec.NResult.RaiseError(Int32 error)
+   at Neurotec.NResult.Check(Int32 result)
+   at Neurotec.Images.NImage.FromFile(String fileName, NImageFormat imageFormat, UInt32 flags)
+   at Neurotec.Images.NImage.FromFile(String fileName)
+   at VisualSoft.Biomatric.Identification.Services.BiometricClusterConnector.IdentifyAsync(String wsqFilePath) in C:\Users\VisualSoft\source\repos\VisualSoft.Biomatric.Identification.API\VisualSoft.Biomatric.Identification.Services\BiometricClusterConnector.cs:line 129
+2025-12-19 16:03:05.963 +05:00 [INF] HTTP POST /api/Identification/identify responded 200 in 116.9754 ms
+2025-12-19 16:03:32.990 +05:00 [INF] Starting identification for file: C:\Users\VisualSoft\AppData\Local\Temp\9691ffc9-35af-4899-88d1-d3e7c2452162.wsq
+2025-12-19 16:06:19.349 +05:00 [INF]  No match found - Status: "MatchNotFound", Duration: 166357.9849ms
+2025-12-19 16:06:19.357 +05:00 [INF] HTTP POST /api/Identification/identify responded 200 in 166403.9603 ms
+2025-12-19 16:07:41.907 +05:00 [INF] Starting identification for file: C:\Users\VisualSoft\AppData\Local\Temp\de65a367-51fb-4213-b7bc-bf78f9bafc77.wsq
+2025-12-19 16:09:56.993 +05:00 [INF]  No match found - Status: "MatchNotFound", Duration: 135085.7776ms
+2025-12-19 16:09:57.000 +05:00 [INF] HTTP POST /api/Identification/identify responded 200 in 135138.7786 ms
+2025-12-19 16:10:37.949 +05:00 [INF] Starting identification for file: C:\Users\VisualSoft\AppData\Local\Temp\8a119186-7c2a-4c6b-8110-9b15be060ccc.wsq
+2025-12-19 16:14:02.612 +05:00 [INF]  Match found - Best: 44_11917 (Score: 1650), Total Matches: 1, Duration: 204662.6ms
+2025-12-19 16:14:02.622 +05:00 [INF] HTTP POST /api/Identification/identify responded 200 in 204730.3364 ms
+2025-12-19 16:14:42.335 +05:00 [INF] Starting identification for file: C:\Users\VisualSoft\AppData\Local\Temp\378d27ec-576b-454a-aba7-a5a0da66336c.wsq
+2025-12-19 16:17:25.375 +05:00 [INF]  No match found - Status: "MatchNotFound", Duration: 163040.3305ms
+2025-12-19 16:17:25.381 +05:00 [INF] HTTP POST /api/Identification/identify responded 200 in 163050.4416 ms
+2025-12-19 16:18:02.853 +05:00 [INF] Starting identification for file: C:\Users\VisualSoft\AppData\Local\Temp\f6d9d030-0519-4d0a-9d0b-589de118b363.wsq
+2025-12-19 16:19:35.980 +05:00 [INF]  No match found - Status: "MatchNotFound", Duration: 93127.5257ms
+2025-12-19 16:19:35.991 +05:00 [INF] HTTP POST /api/Identification/identify responded 200 in 93144.6300 ms
+2025-12-19 16:25:23.429 +05:00 [INF] Starting identification for file: C:\Users\VisualSoft\AppData\Local\Temp\57e827ed-4765-4eef-8cfb-e24be9a04461.wsq
+2025-12-19 16:25:25.410 +05:00 [WRN] Template extraction failed with status: "BadObject"
+2025-12-19 16:25:25.414 +05:00 [INF] HTTP POST /api/Identification/identify responded 200 in 1989.8730 ms
+2025-12-19 16:25:51.133 +05:00 [INF] Starting identification for file: C:\Users\VisualSoft\AppData\Local\Temp\123caac2-8f50-499b-b07c-b157309a7eb8.wsq
+2025-12-19 16:28:10.616 +05:00 [INF]  Match found - Best: 186_1_881 (Score: 2546), Total Matches: 2, Duration: 139482.6525ms
+2025-12-19 16:28:10.643 +05:00 [INF] HTTP POST /api/Identification/identify responded 200 in 139554.2669 ms
+2025-12-19 16:28:35.546 +05:00 [INF] Starting identification for file: C:\Users\VisualSoft\AppData\Local\Temp\74e71511-a7e8-4c5b-a8c5-103da5955a2f.wsq
+2025-12-19 16:30:57.303 +05:00 [INF]  Match found - Best: 186_1_890 (Score: 2369), Total Matches: 2, Duration: 141756.8184ms
+2025-12-19 16:30:57.317 +05:00 [INF] HTTP POST /api/Identification/identify responded 200 in 141774.5212 ms
+2025-12-19 16:31:25.668 +05:00 [INF] Starting identification for file: C:\Users\VisualSoft\AppData\Local\Temp\16bffa53-ca18-4434-9cd6-740256d6da47.wsq
+2025-12-19 16:33:34.690 +05:00 [INF]  Match found - Best: 186_1_888 (Score: 2304), Total Matches: 2, Duration: 129021.7241ms
+2025-12-19 16:33:34.697 +05:00 [INF] HTTP POST /api/Identification/identify responded 200 in 129035.2123 ms
+2025-12-19 16:35:55.866 +05:00 [INF] Starting identification for file: C:\Users\VisualSoft\AppData\Local\Temp\745bc18d-6959-472b-83ee-a58d5616da12.wsq
+2025-12-19 16:37:40.695 +05:00 [INF]  Match found - Best: 186_11_845 (Score: 2097), Total Matches: 1, Duration: 104828.5424ms
+2025-12-19 16:37:40.701 +05:00 [INF] HTTP POST /api/Identification/identify responded 200 in 104840.6318 ms

@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VisualSoft.Biomatric.Identification.API", "VisualSoft.Biomatric.Identification.API\VisualSoft.Biomatric.Identification.API.csproj", "{28BFEC0B-E2E4-43E6-93C6-57DCB3682822}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VisualSoft.Biomatric.Identification.Services", "VisualSoft.Biomatric.Identification.Services\VisualSoft.Biomatric.Identification.Services.csproj", "{FE833CFE-BC9B-464E-A791-ECA98716FB53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VisualSoft.Biomatric.Identification.Domain", "VisualSoft.Biomatric.Identification.Domain\VisualSoft.Biomatric.Identification.Domain.csproj", "{09B3DBD3-8361-495A-937D-E27F976BA4AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28BFEC0B-E2E4-43E6-93C6-57DCB3682822}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28BFEC0B-E2E4-43E6-93C6-57DCB3682822}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28BFEC0B-E2E4-43E6-93C6-57DCB3682822}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28BFEC0B-E2E4-43E6-93C6-57DCB3682822}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE833CFE-BC9B-464E-A791-ECA98716FB53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE833CFE-BC9B-464E-A791-ECA98716FB53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE833CFE-BC9B-464E-A791-ECA98716FB53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE833CFE-BC9B-464E-A791-ECA98716FB53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09B3DBD3-8361-495A-937D-E27F976BA4AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09B3DBD3-8361-495A-937D-E27F976BA4AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09B3DBD3-8361-495A-937D-E27F976BA4AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09B3DBD3-8361-495A-937D-E27F976BA4AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE649320-1401-414C-A519-80E5485C71CC}
+	EndGlobalSection
+EndGlobal
